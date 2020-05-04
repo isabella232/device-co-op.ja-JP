@@ -1,19 +1,19 @@
 ---
-description: デバイスグラフデータは、プロファイルリンクで結合ルールオプションとして使用できます。結合ルールを使用すると、Audience Manager がセグメント化に使用するデータのタイプを制御できます。
-seo-description: デバイスグラフデータは、プロファイルリンクで結合ルールオプションとして使用できます。結合ルールを使用すると、Audience Manager がセグメント化に使用するデータのタイプを制御できます。
-seo-title: Audience Manager — プロファイルリンク
-title: Audience Manager — プロファイルリンク
+description: Device Graphデータは、プロファイルリンクでマージルールオプションとして使用できます。 マージルールを使用すると、セグメント化に使用するデータオーディエンスマネージャの種類を制御できます。
+seo-description: Device Graphデータは、プロファイルリンクでマージルールオプションとして使用できます。 マージルールを使用すると、セグメント化に使用するデータオーディエンスマネージャの種類を制御できます。
+seo-title: オーディエンスマネージャ —プロファイルリンク
+title: オーディエンスマネージャ —プロファイルリンク
 uuid: cebf40e5-9f0c-4e59-b4a7-73696fa2dadc
 translation-type: tm+mt
-source-git-commit: c1d0bc05d3f211fa3e899e98fbcc908be7399031
+source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
 
 ---
 
 
-# Audience Manager - Profile Link{#audience-manager-profile-link}
+# オーディエンスマネージャ —プロファイルリンク{#audience-manager-profile-link}
 
-デバイスグラフデータは、プロファイルリンクで結合ルールオプションとして使用できます。結合ルールを使用すると、Audience Manager がセグメント化に使用するデータのタイプを制御できます。
+Device Graphデータは、プロファイルリンクでマージルールオプションとして使用できます。 マージルールを使用すると、セグメント化に使用するデータオーディエンスマネージャの種類を制御できます。
 
-プロファイルリンクは、デバイス間のデータソースで動作し、認証されたサイト訪問者の特性を特定および収集します。プロファイル結合ルール機能が含まれます。 プロファイル結合ルールを使用すれば、セグメンテーションに使用されるデータセットを制御し、複数のデバイスにまたがって的確なターゲティングをおこなうことができます。
+プロファイルリンクは、デバイス間のデータソースを操作して、認証済みのサイト訪問者の特性を識別および収集します。 プロファイル結合ルール機能が含まれます。 プロファイル結合ルールを使用すると、セグメンテーションに使用するデータセットを管理できます。また、複数のデバイスにわたって個人を正確にターゲットに設定することができます。
 
-See the [Profile Link documentation](https://marketing.adobe.com/resources/help/en_US/aam/profile-link-intro.html) for more information.
+See the [Profile Link documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) for more information.
