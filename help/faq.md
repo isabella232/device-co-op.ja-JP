@@ -1,45 +1,48 @@
 ---
-description: ID サービス協業および ID グラフに関するよくある質問に対する説明と回答です。
-seo-description: ID サービス協業および ID グラフに関するよくある質問に対する説明と回答です。
+description: IDサービス協同組合とIDグラフに関してよく寄せられる質問の説明と回答です。
+seo-description: IDサービス協同組合とIDグラフに関してよく寄せられる質問の説明と回答です。
 seo-title: FAQ
 title: FAQ
 uuid: 490566e1-4d35-468c-8389-678f9ff02cc8
 translation-type: tm+mt
 source-git-commit: c1d0bc05d3f211fa3e899e98fbcc908be7399031
+workflow-type: tm+mt
+source-wordcount: '491'
+ht-degree: 1%
 
 ---
 
 
 # FAQ{#faq}
 
-ID サービス協業および ID グラフに関するよくある質問に対する説明と回答です。
+IDサービス協同組合とIDグラフに関してよく寄せられる質問の説明と回答です。
 
-**何だ[!DNL Device Co-op]?**
+**何が [!DNL Device Co-op]?**
 
-Device Co-opは、Adobe Experience Cloudの顧客と協力して、複数のデバイスにわたって消費者をより良く識別するための協力を行うデジタル協力会社です。
+Device Co-opは、Adobe Experience Cloudの顧客が複数のデバイスにわたって消費者をより良く識別できるように協力するためのデジタル協力会社です。
 
-**Device Co-op ではどのようなテクノロジーが使用されますか。**
+**Device Co-opで使用されているテクノロジー**
 
-Device Co-op は、以下の 2 つのテクノロジーで構成されます。
+Device Co-opは、次の2つのテクノロジーで構成されています。
 
-* **Experience Cloud IDサービス：** Adobe Experience Cloudのこのコアサービスは、ソリューション、チャネル、エクスペリエンスおよびデバイス全体で消費者を一貫して識別するための共通のIDを提供します。
-* **Adobe Experience Cloud Device Co-op:** この技術は、消費者や家庭で使用される様々なデバイスをリンクします。
+* **Experience CloudIDサービス：** Adobe Experience Cloudのこのコアサービスは、ソリューション、チャネル、エクスペリエンスおよびデバイス全体で一貫した消費者識別の共通IDを提供します。
+* **Adobe Experience Cloud・デバイスCo-op:** この技術は、消費者や家庭で使用される様々なデバイスをリンクします。
 
-**どうやっ[!DNL Device Co-op]て？**
+**どうやって [!DNL Device Co-op] 動く？**
 
-アドビは、企業から提供される匿名化されたログインおよびサイト訪問のデータを処理して、デバイス間の関係を特定し、1 人の匿名の人物によって使用されるデバイスのグループ（デバイスクラスター）を形成します。これらのデバイスクラスターは、Device Co-op メンバーに提供され、より一貫した、優れたクロスデバイスエクスペリエンスを消費者に提供するために使用されます。
+ブランドは、匿名ログインやサイト訪問によってクロスデバイスパズルのピースにピッチを与えるので、Adobeはこのデータを処理して、未知の人が使用するデバイスのグループを表すデバイスクラスターを形成します。 これらのデバイスクラスターは、Device Co-opのメンバーに提供され、ユーザーに対してより優れた一貫性のあるデバイス間のエクスペリエンスを提供するために使用されます。
 
-**リンクデバイスはど[!DNL Device Co-op]のようにしますか。**
+**リンク・デバイスの [!DNL Device Co-op] 動作**
 
-See [Deterministic and Probabilistic Links](processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931).
+「 [決定論的リンクと確率的リンク](processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931)」を参照してください。
 
-**参加者はどのようなデータを提供しま[!DNL Adobe]すか。**
+**参加者はどのようなデータを提供し [!DNL Adobe]ますか。**
 
-[消費者のオプトアウトツール、プライバシーおよびデバイスグラフ](privacy.md#concept-fa1346e6b95a484eaeafc9bebe3cd6be)を参照してください。
+詳しくは、 [コンシューマーオプトアウトツール、プライバシーおよびDevice Graphを参照してください](privacy.md#concept-fa1346e6b95a484eaeafc9bebe3cd6be)。
 
-**メンバー間で共有されるデータ[!DNL Device Co-op]は何か。**
+**メンバー間で共有されるデータは何 [!DNL Device Co-op] か。**
 
-See [Link Sharing in the Device Graph](processes/link-sharing.md#concept-7168053105a94649a3f092d375d79eaf).
+Device Graphの「 [リンクの共有」を参照してください](processes/link-sharing.md#concept-7168053105a94649a3f092d375d79eaf)。
 
 <!--
 Removed at Asa's request.
@@ -47,22 +50,22 @@ Removed at Asa's request.
 <p>Adobe can see which devices are most likely being used by the same person, using probabilistic and deterministic device graph algorithms. This match between a group of devices and a person is really two numbers that are linked to each other. One number represents a group of devices believed to belong to the same person while the other number represents a person. Adobe makes this linked device information available to consumers as well, so they can correct misinformation and/or opt-out one or all devices from the Device Co-op. </p>
 -->
 
-**[!DNL Device Co-op]メンバーは、それまで認識したことのないデバイスへのリンクを確認できますか。**
+**メンバーは、これまでに見たことのないデバイスへのリンクを表示できますか。 [!DNL Device Co-op]**
 
-いいえ。Device Co-op の各メンバーが入手できるのは、自社の Web プロパティの 1 つにアクセスしたデバイスに関連するデータのみです。詳しくは、 既知のデ [バイス](processes/known-device.md#concept-8e87c276819a48bfac5cef10b45216d1) と不明 [なデバイス](processes/unknown-device.md#concept-95090d341cdc4c22ba4319d79d8f6e40)。
+いいえ。Device Co-opのメンバーは、自社ブランドのWebプロパティの1つを訪問したデバイスに基づくデータのみを取得できます。 「 [既知のデバイス](processes/known-device.md#concept-8e87c276819a48bfac5cef10b45216d1) 」および「 [不明なデバイス](processes/unknown-device.md#concept-95090d341cdc4c22ba4319d79d8f6e40)」を参照してください。
 
-**会社のマーケティング情報のいずれかを共有する必要はありますか。**
+**会社のマーケティング情報を共有する必要がありますか。**
 
-いいえ。ブランドは、匿名デバイスデータのみをアドビに提供します。
+いいえ。ブランドは、匿名デバイスデータのみをAdobeに提供します。
 
-**に個人[!DNL Adobe]を特定できる情報(PII)を使用します[!DNL Device Co-op]か。**
+**サイトで個人 [!DNL Adobe] 識別情報(PII)を使用してい [!DNL Device Co-op]るか。**
 
-いいえ。すべての個人情報は、アドビのシステムに組み込まれる前にハッシュ化されているので、顧客の情報は、アドビのシステムに転送されることはありません。
+いいえ。個人を特定できる情報はすべて、Adobeシステムに取り込まれる前にハッシュ化されるので、顧客の情報がAdobeシステムに転送されることはありません。
 
-**大規模のブランドと比較して、より少ないデバイスデータを Device Co-op に提供する小規模のブランドは、提供したもの以上の価値を得るのではありませんか。**
+**Device Co-opに対するデバイスデータの寄与が少ない小規模ブランドは、大規模ブランドに比べて、より多くの価値を得られるか。**
 
-いいえ。協業のすべてのメンバーは、提供したものに応じた価値を得ます。例えば、あるブランドが 10,000 個のデバイスデータを提供する場合、それらの 10,000 個にリンクされる追加のデバイス情報を受け取ることができます。全体から判断すると、このブランドの貢献は小さなものに見えるかもしれませんが、あらゆる規模のブランドの参加によってデータの集約が進めば、大規模なブランドを含む多くのメンバーが自社のデータのみでは特定できなかったデバイス間のリンクを識別できるようになります。公正と [既知のデバイスを参照](processes/known-device.md#section-0543188729d845d6b95db70b8b25e9f8)。
+いいえ。組合の全メンバーは、入力内容に対する値を取得します。 例えば、ブランドが10,000個のデバイスに貢献する場合、それらの10,000に関連付けられた追加のリンクされたデバイス情報を受け取ることができます。 全体像を見ると、この貢献は最小限に見えるかもしれません。しかし、様々な規模のブランドが加わるにつれて、集計貢献度は重要なものとなり、他の多くの大きなブランドが探し求めている多くのデバイスには、リンクがなくなるでしょう。 正 [当性と既知のデバイスを参照してください](processes/known-device.md#section-0543188729d845d6b95db70b8b25e9f8)。
 
-**一部の国でIPア[!DNL Adobe]ドレスを個人情報と見なす場合、IPアドレスはどのように管理しますか。**
+**一部の国でIPアドレスを個人情報と見なす場合、IPアドレスはどのように [!DNL Adobe] 管理しますか。**
 
-Device Co-op は、IP アドレスが個人情報とは見なされない米国およびカナダで最初にリリースされます。この協業が IP アドレスを個人情報と見なす国でリリースされる場合、IP アドレスは使用されません。
+Device Co-opは、IPアドレスが個人情報ではない米国およびカナダで最初にリリースされます。 IPアドレスが個人情報と見なされる国で協同組合がリリースされた場合、そのIPアドレスは使用されません。
