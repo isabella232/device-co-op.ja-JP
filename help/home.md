@@ -1,16 +1,19 @@
 ---
 description: 'null'
 seo-description: 'null'
-seo-title: Adobe Experience Cloud Device Co-opドキュメント
-title: Adobe Experience Cloud Device Co-opドキュメント
+seo-title: Adobe Experience Cloudデバイス協力会社ドキュメント
+title: Adobe Experience Cloudデバイス協力会社ドキュメント
 uuid: ec951e20-8736-4d42-b5e5-3e9abfc6820d
 translation-type: tm+mt
 source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
+workflow-type: tm+mt
+source-wordcount: '148'
+ht-degree: 66%
 
 ---
 
 
-# Adobe Experience Cloud Device Co-opドキュメント{#adobe-experience-cloud-device-co-op-documentation}
+# Adobe Experience Cloudデバイス協力会社ドキュメント{#adobe-experience-cloud-device-co-op-documentation}
 
 [!DNL Adobe Experience Cloud][!DNL Device Co-op] は、参加するお客様がデバイスリンク情報を共有するデジタル協業です。このデータを [!DNL Experience Cloud][!DNL Device Co-op] 処理して、デバイスクラスターを形成します。 これらのクラスターは、未知の人が使用するデバイスのグループを表します。 [!DNL Device Co-op] は、メンバー間でこれらのクラスターを共有します。これにより、メンバーは、価値のある一貫したクロスデバイスエクスペリエンスをその顧客に提供できます。
 
