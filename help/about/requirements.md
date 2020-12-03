@@ -1,26 +1,29 @@
 ---
-description: Experience Cloud Device Co-opを使用して開始を行うには、会社がこれらの最小基準を満たしている必要があります。
-seo-description: Experience Cloud Device Co-opを使用して開始を行うには、会社がこれらの最小基準を満たしている必要があります。
+description: 会社Device Co-opを使用して開始を行うには、Experience Cloudがこれらの最小基準を満たしている必要があります。
+seo-description: 会社Device Co-opを使用して開始を行うには、Experience Cloudがこれらの最小基準を満たしている必要があります。
 seo-title: メンバーシップ要件
 title: メンバーシップ要件
 uuid: 4295fa4e-1b9e-4323-bb79-48e548ca1167
 translation-type: tm+mt
 source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
+workflow-type: tm+mt
+source-wordcount: '460'
+ht-degree: 15%
 
 ---
 
 
 # Membership requirements{#membership-requirements}
 
-Experience Cloud Device Co-opを使用して開始を行うには、会社がこれらの最小基準を満たしている必要があります。
+会社Device Co-opを使用して開始を行うには、Experience Cloudがこれらの最小基準を満たしている必要があります。
 
 ## 要件 {#section-9cbcee3c7b4e4c49b4c0e2b26aec5fe9}
 
-お話し [!DNL Adobe representative to get started]。 アドビの担当者がいない場合は、 [Device Co-opメンバーシップポータルにアクセスし](http://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html) 、オンラインフォームに記入します。
+お話し [!DNL Adobe representative to get started]。 Adobeの担当者がいない場合は、 [Device Co-opメンバーシップポータルにアクセスし](http://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html) 、オンラインフォームに記入します。
 
-アドビは、見込み客のDevice Co-opへの参加が(1)適用法に違反するとアドビが判断した場合、Experience Cloud Device Co-opへの参加を見込み客に対して拒否する権利を保留します。 または(2)アドビまたはアドビのお客様のセキュリティや運用に重大なリスクを及ぼします。
+Adobeは、見込み客のDevice Co-opへの参加が(1)適用法に違反するとAdobeが判断した場合、Experience CloudDevice Co-opへの参加を見込み客に拒否する権利を留保します。(2)Adobe又はその顧客の安全又は運用に重大なリスクを与える。
 
-## Experience Cloudの要件 {#section-76218a50385d43e6b9323e49f598394a}
+## Experience Cloud要件 {#section-76218a50385d43e6b9323e49f598394a}
 
 Co-opに参加するには、を有効にし、次のソリューション [!DNL Adobe Experience Cloud] とサービスを使用する必要があります。
 
@@ -47,11 +50,11 @@ Applicants must implement the [Experience Cloud ID Service](https://docs.adobe.c
 
 **AppMeasurement(Flash)**
 
-バージョン4.1が必要です。AppMeasurement for Flash、Flex、 [AIRを参照してください](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/index.md)。
+バージョン4.1が必要です。AppMeasurement forFlash、 [Flex、AIRを参照してください](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/index.md)。
 
 **AppMeasurement(JavaScript)**
 
-バージョン1.5.4が必要です。AppMeasurement for Flash、Flex、 [AIRを参照してください](https://docs.adobe.com/content/help/en/analytics/implementation/js/migrate-from-hcode.html)。
+バージョン1.5.4が必要です。 [AppMeasurement forFlash、Flex、AIRを参照してください](https://docs.adobe.com/content/help/ja-JP/analytics/implementation/js/migrate-from-hcode.html)。
 
 **モバイル SDK**
 
@@ -60,12 +63,12 @@ Applicants must implement the [Experience Cloud ID Service](https://docs.adobe.c
 * Android バージョン 4.8.3.
 * iOS バージョン 4.8.5.
 
-Your SDK code must be enabled for the [!DNL Experience Cloud] ID service. Enable and download the latest SDK code for each app in your [Adobe Mobile Services](https://mobilemarketing.adobe.com/) account. See [Configure SDK Visitor ID Service Options](https://docs.adobe.com/content/help/en/mobile-services/using/manage-app-settings-ug/configuring-app/t-config-visitor.html).
+Your SDK code must be enabled for the [!DNL Experience Cloud] ID service. [AdobeのMobile Servicesアカウントで、各アプリの最新のSDKコードを有効にしてダウンロードします](https://mobilemarketing.adobe.com/) 。 See [Configure SDK Visitor ID Service Options](https://docs.adobe.com/content/help/ja-JP/mobile-services/using/manage-app-settings-ug/configuring-app/t-config-visitor.html).
 
 SDKごとに、ニーズに合った適切な `visitorSyncIdentifier` 方法を使用します。 以下を参照してください。
 
-* [Android Experience Cloud IDサービスのメソッド](https://docs.adobe.com/content/help/en/mobile-services/android/experience-cloud-android/mcvid.html)
-* [iOS Experience Cloud IDサービスのメソッド](https://docs.adobe.com/content/help/en/mobile-services/ios/exp-cloud-ios/mcvid.html)
+* [AndroidExperience CloudIDサービスのメソッド](https://docs.adobe.com/content/help/en/mobile-services/android/experience-cloud-android/mcvid.html)
+* [iOSExperience CloudIDサービスのメソッド](https://docs.adobe.com/content/help/en/mobile-services/ios/exp-cloud-ios/mcvid.html)
 
 **VisitorAPI.js**
 
