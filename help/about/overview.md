@@ -1,49 +1,52 @@
 ---
-description: Adobe Experience Cloud Device Co-opは、プライバシーと透明性を最大限に高めつつ、参加者が協力してデジタルタッチポイント全体の消費者をより良く識別できるようにするプログラムです。 Experience Cloud Device Co-op のメンバー企業は、クロスデバイスに消費者を認識できるので、デバイスおよびアプリをまたいで、高度にパーソナライズされたエクスペリエンスを大規模に実現できます。Device Co-op は、Adobe Experience Cloud のコアサービスです。Analytics、Audience Manager、Media Manager または Target を使用するアドビのお客様にご利用いただけます。
-seo-description: Adobe Experience Cloud Device Co-opは、プライバシーと透明性を最大限に高めつつ、参加者が協力してデジタルタッチポイント全体の消費者をより良く識別できるようにするプログラムです。 Experience Cloud Device Co-op のメンバー企業は、クロスデバイスに消費者を認識できるので、デバイスおよびアプリをまたいで、高度にパーソナライズされたエクスペリエンスを大規模に実現できます。Device Co-op は、Adobe Experience Cloud のコアサービスです。Analytics、Audience Manager、Media Manager または Target を使用するアドビのお客様にご利用いただけます。
+description: Device Co-opは、プライバシーと透明性を最大限に高めながら、参加者が協力してデジタルタッチポイント全体で消費者をより良く識別できるようにするプログラムです。 Device Co-opは、参加ブランドに力を与えて消費者を認識させ、デバイスやアプリにわたって、よりパーソナライズされたエクスペリエンスを大規模に提供できます。 Device Co-opはAdobe Experience Cloudの中核サービスです。 Analytics、Audience Manager、Media Managerまたはターゲットを使用するAdobeのお客様は、この機能を利用できます。
+seo-description: Device Co-opは、プライバシーと透明性を最大限に高めながら、参加者が協力してデジタルタッチポイント全体で消費者をより良く識別できるようにするプログラムです。 Device Co-opは、参加ブランドに力を与えて消費者を認識させ、デバイスやアプリにわたって、よりパーソナライズされたエクスペリエンスを大規模に提供できます。 Device Co-opはAdobe Experience Cloudの中核サービスです。 Analytics、Audience Manager、Media Managerまたはターゲットを使用するAdobeのお客様は、この機能を利用できます。
 seo-title: 概要
 title: 概要
 uuid: 9e2502db-0dc6-4b0f-965f-71894fb1f9d4
 translation-type: tm+mt
 source-git-commit: c1d0bc05d3f211fa3e899e98fbcc908be7399031
+workflow-type: tm+mt
+source-wordcount: '879'
+ht-degree: 1%
 
 ---
 
 
 # 概要{#overview}
 
-Adobe Experience Cloud Device Co-opは、プライバシーと透明性を最大限に高めつつ、参加者が協力してデジタルタッチポイント全体の消費者をより良く識別できるようにするプログラムです。 Experience Cloud Device Co-op のメンバー企業は、クロスデバイスに消費者を認識できるので、デバイスおよびアプリをまたいで、高度にパーソナライズされたエクスペリエンスを大規模に実現できます。Device Co-op は、Adobe Experience Cloud のコアサービスです。Analytics、Audience Manager、Media Manager または Target を使用するアドビのお客様にご利用いただけます。
+Device Co-opは、プライバシーと透明性を最大限に高めながら、参加者が協力してデジタルタッチポイント全体で消費者をより良く識別できるようにするプログラムです。 Device Co-opは、参加ブランドに力を与えて消費者を認識させ、デバイスやアプリにわたって、よりパーソナライズされたエクスペリエンスを大規模に提供できます。 Device Co-opはAdobe Experience Cloudの中核サービスです。 Analytics、Audience Manager、Media Managerまたはターゲットを使用するAdobeのお客様は、この機能を利用できます。
 
 ## メリット {#section-ba8d23e1e5174bea8f84aab4642d4809}
 
-Device Co-op に参加する企業は、複数のデバイスを使用する消費者に対して、一貫した、質の高いコンテンツエクスペリエンスを提供できます。これは、未知の消費者によって使用されたデバイスをリンクし、デバイスのグループを形成することで、実現されます。このテクノロジーにより、マーケティング担当者は、デバイスをまたいだ消費者行動を把握し、対処することができます。その結果、より正確な Web サイトエンゲージメント指標を使用し、適切にパーソナライズされたコンテンツを提供し、検索連動型、ディスプレイ、ソーシャルなどのチャネルで高度にターゲティングされた広告エクスペリエンスを実現することができます。Participation in [!DNL Adobe Experience Cloud] Device Co-op helps our members improve:
+Device Co-opを使用すると、参加者はデバイス間での移行に伴い、より優れた一貫性のあるコンテンツエクスペリエンスを消費者に提供できます。 これは、未知のユーザーが使用するデバイスのグループ間にリンクを確立することで行われます。 このテクノロジーは、マーケティング担当者がデバイス間の消費者行動を把握し、対応するのに役立ちます。 この結果、より正確なWebサイトエンゲージメント指標、よりパーソナライズされたコンテンツ、検索、表示およびソーシャル全体でのより的を絞った広告エクスペリエンスが提供されます。 Device Co-opへの参加は、以下の改善に役立ちます。 [!DNL Adobe Experience Cloud]
 
-* **顧客理解：**&#x200B;従来のレポートは、特定のデバイスに関するインサイトを明らかにすることができます。しかし、買い物をするのはデバイスやチャネルではなく、人です。Device Co-op の優れたレポートを活用すれば、アナリストやマーケティング担当者は、消費者に焦点を当てた分析をおこない、マーケティング戦略を立てることができます。
-* **コンテンツのパーソナライゼーション：**&#x200B;ブランドの Web サイトやアプリにログインしない消費者には、通常、そのときに使用しているデバイスにリンクしたエクスペリエンスが提供されます。しかし Device Co-op を活用すれば、単に使用しているデバイスだけでなく、人物に関してブランドが持つ情報に基づいて、一貫した、価値のあるエクスペリエンスを提供できます。
-* **広告費用の効率：** Device Co-op は、デバイスではなく、人に焦点を当てたディスプレイ広告によってマーケティング予算を節約するのを支援します。通常、頻度の上限は単一のデバイスに適用されるので、消費者あたり 5 つまでという広告の制限も、実際にはデバイスあたり 5 つとして実施されることになります。Device Co-op を使用すると、デバイスではなく、人をターゲットにすることで、マーケティング担当者は、ROI を向上できます。
-* **デバイス間での再ターゲット：** 日々使用するモバイル、タブレット、ブラウザー、その他のデバイスでロック解除された再ターゲット化機能を利用して、顧客に連絡できます。 広告は、興味の範疇にあれば、効率性が劇的に向上します。クロスデバイスの再ターゲット化により、ブランドでまさにそれを実現できます。
+* **お客様の理解：** 従来のレポートでは、特定のデバイスのインサイトを表示できます。 しかし、機器やチャネルは物を買いません。人は買います。 Device Co-opは、レポートが向上すると、アナリストやマーケターが、ビジネスが求める実際の人間中心の質問に答えるのを支援します。
+* **コンテンツのパーソナライゼーション：** ブランドのWebサイトやアプリにログインしないユーザーは、通常、その時点で使用しているデバイスにリンクされたエクスペリエンスを受け取ります。 Device Co-opは、マーケターが使用するデバイスだけでなく、ブランドが持つ人物に関する情報に基づいて、一貫性があり価値のあるエクスペリエンスを提供するのに役立ちます。
+* **広告費用の効率：** Device Co-opは、ディスプレイ広告をデバイスではなく人に絞り込むことで、マーケティング予算を節約するのに役立ちます。 周波数上限は通常1つのデバイスに適用されるので、1人の消費者につき5個の広告を制限すると、簡単にデバイスあたり5個の広告に変換できます。 Device Co-opを使用すると、マーケターはデバイスではなく人をターゲットにすることで、ROIを増やすことができます。
+* **デバイス間での再ターゲット設定：** 毎日使用するモバイル、タブレット、ブラウザー、その他のデバイスでロック解除されたリターゲティング機能を利用して、コンシューマーに連絡できます。 気を使い続けて、デバイス間のリターゲティングを行うことで、ブランドは広告を大幅に効果的に実行できます。
 
 <!--
 we may not want to share info in this with customers who have not signed. Also, removed directory from S3.
 <p>Download our white-paper, <a href="https://marketing-stage.adobe.com/resources/help/en_US/mcdc/downloads/what_to_expect.pdf" format="https" scope="external"> What to Expect from the Device Co-op</a> for more information. </p>
 -->
 
-## Device Co-op におけるアドビの役割 {#section-f23c1c442ceb4c44821f10ec9aa7b828}
+## Device Co-opでのAdobeの役割 {#section-f23c1c442ceb4c44821f10ec9aa7b828}
 
- [!DNL Device Co-op], [!DNL Adobe]:
+の内 [!DNL Device Co-op]容 [!DNL Adobe]:
 
-* **データ管理者：**Device Co-opメンバーは、データを直接共有しません。 Instead, [!DNL Adobe], acts as a broker to make device link data available to the co-op through the [!DNL Device Graph]. Device Co-op メンバーは、有効な [!DNL Experience Cloud] ソリューションの機能を使用して、このデータを使用できるようになります。
+* **データ管理者です：**Device Co-opメンバーは、データを直接共有しません。 の代わりに、 [!DNL Adobe]はデバイスリンクデータをCo-Op経由でCo-Opに提供するブローカーとしての役割を果た [!DNL Device Graph]します。 Device Co-opのメンバーは、有効なソリューションの機能を通してこのデータを扱うことができ [!DNL Experience Cloud] ます。
 
-* **データの公平性を推進する：**&#x200B;公平なデータ共有は、Device Co-op の重要な概念です。すべての [!DNL Device Co-op] メンバーは、貢献に応じた価値を得ます。If you&#39;ve never interacted with an anonymous person through a site visit or ad impression, you won&#39;t get any information about their devices in the [!DNL Device Graph]. Device Co-op は、不明なデバイスを使用する常連消費者をブランドが認識するのを支援します。
+* **データの公平性を信じる：** 公平なデータ共有は、Device Co-opの重要な概念です。 すべての [!DNL Device Co-op] メンバーは、貢献した内容に対する値を受け取ります。 サイトの訪問や広告のインプレッションで匿名の人とのやり取りをしたことがない場合、でのその人のデバイスに関する情報は得られません [!DNL Device Graph]。 Device Co-opは、ブランドが一般的でないデバイスを使用している慣れ親しんだ消費者を認識するのに役立ちます。
 
-* **プライバシー標準のサポート：** デ [!DNL Device Graph] ータには、個人識別情報(PII)は含まれません。 Excluding PII from the Device Graph helps [!DNL Adobe] uphold privacy standards and maintain the trust of co-op members and consumers alike.
+* **プライバシー標準のサポート：**[!DNL Device Graph] 個人情報(PII)は含まれません。 Device GraphからPIIを除外すると、プライバシー標準を守り、協力メンバーと消費者の信頼を維持するのに役立ちます。 [!DNL Adobe]
 
-## 動作の仕組み {#section-7f7a0138e54349278fc463764f03cd4b}
+## 仕組み {#section-7f7a0138e54349278fc463764f03cd4b}
 
-Co-op メンバーは、消費者の ID を完全に隠した、暗号的にハッシュ化されたログイン ID と HTTP ヘッダーデータへのアクセスをアドビに提供します。アドビは、このデータを処理して、匿名の人物または家族によって使用されるデバイスのグループ（「デバイスクラスター」）を作成します。次に、これらのデバイスグループをアドビのデジタルマーケティングソリューションで提供し、Co-op メンバーが直接個人に対してクロスデバイスに測定、セグメント化、ターゲット化および宣伝を実施できるようにします。[!DNL Device Co-op]*は、名前、電子メールアドレス、電話番号、サイト訪問データなどの個人データをメンバー間で共有しないので、これらすべては、ユーザーの ID を開示することなく実現されます。*&#x200B;そのメンバーの中に
+協力メンバーは、消費者のIDを完全に隠す、暗号的にハッシュ化されたログインIDとHTTPヘッダーデータへのアクセスをAdobeに提供します。 Adobeは、このデータを処理して、未知の人または家庭で使用されるデバイスのグループ（「デバイス・クラスタ」）を作成します。 Adobeは、デジタルマーケティングソリューションを通じて、これらのデバイスのグループを表示するので、Co-opメンバーは、直接個人に対して測定、セグメント化、ターゲット、宣伝をすべてのデバイスにわたって行うことができます。 名前、電子メールアドレス、電話番号、サイト訪問データなどの個人データ [!DNL Device Co-op] は共有されないので ** 、ユーザのIDを明らかにしなくても、これらすべて可能です。 その会員の中に
 
-これらのルールは、通常、クロスデバイステクノロジーに関連付けられる重要なプライバシーの問題に対処するのに役立ちます。実際、[!DNL Device Co-op] を使用すると、消費者は、業界標準を超えるプライバシー制御が得られます。[!DNL Device Co-op] は、参加ブランドおよび現在使用しているデバイスに関連付けられたすべてのデバイスに関するインサイトを消費者に提供することで、前例のない透明性を提供します。See [The Device Graph: Internal Processes and Output](../processes/links.md#concept-e9526af3476b478aab7c57b9ed0bab7c) section for more information.
+これらのルールは、デバイス間のテクノロジーによく関連する、プライバシーに関する重要な問題の解決に役立ちます。 実際、消費者は業界標準を超え [!DNL Device Co-op]るプライバシー管理を持つでしょう。 には、現在使用されているデバイスに関連付けられているすべてのデバイスと同様に、消費者に対して参加ブランドに関するインサイトを提供することで、前例のない透明性が [!DNL Device Co-op] 提供されます。 Device Graph [を参照してください。内部プロセスと出力](../processes/links.md#concept-e9526af3476b478aab7c57b9ed0bab7c) 」の節を参照してください。
 
 ## はじめに {#section-53a47ffdc5bf47c88cedcb92dd65444b}
 
-メンバーシップの要件を確認し [ます](../about/requirements.md#concept-31d3d165d22546afbedf023d32ad3a43) 。参加したい場合や、詳細についてご確認くださ [!DNL Device Co-op]い。 Also, see [Working with Device Co-op Data in Other Experience Cloud Solutions](../other-solutions/other-solutions.md#concept-46278a50cfca4e1ab83a3b35077a585f) for a summary of how other [!DNL Adobe] products used this data.
+参加したい場合や、詳細について知りたい場合は、 [メンバーシップ要件を確認してくだ](../about/requirements.md#concept-31d3d165d22546afbedf023d32ad3a43)[!DNL Device Co-op]さい。 また、他のExperience CloudソリューションのDevice Co-opデータの [使用方法の概要については、](../other-solutions/other-solutions.md#concept-46278a50cfca4e1ab83a3b35077a585f) 「その他の [!DNL Adobe] 製品ソリューションのDevice Co-opデータの操作」も参照してください。
