@@ -1,54 +1,57 @@
 ---
-description: Device Graphでのリンクの共有についてを参照してください。
-seo-description: Device Graphでのリンクの共有についてを参照してください。
-seo-title: Device Graphでのリンク共有
-title: Device Graphでのリンク共有
+description: Device Graphでのリンクの共有について
+seo-description: Device Graphでのリンクの共有について
+seo-title: Device Graphでのリンクの共有
+title: Device Graphでのリンクの共有
 uuid: 6c7202f0-c6d9-48a4-82ad-ee57d7a518a0
 translation-type: tm+mt
 source-git-commit: c1d0bc05d3f211fa3e899e98fbcc908be7399031
+workflow-type: tm+mt
+source-wordcount: '557'
+ht-degree: 0%
 
 ---
 
 
-# Link sharing in the Device Graph{#link-sharing-in-the-device-graph}
+# Device Graphでのリンクの共有{#link-sharing-in-the-device-graph}
 
-Device Graphでのリンクの共有についてを参照してください。
+Device Graphでのリンクの共有について
 
-The [!DNL Device Graph] shares deterministic and probabilistic links with different members of the Adobe Experience Cloud Device Co-op. Link sharing is what makes the [!DNL Device Co-op] so powerful. リンク共有により、匿名の人物に関連付けられたデバイスについて各メンバーが把握しているデータが強化されます。ただし、新たなデータが得られるのは、ブランド側でその匿名の人物のデバイスが少なくとも 1 つ認識されている場合に限られます。
+これは、Adobe Experience Cloud・デバイス協同組合の異なるメンバーと、決定論的なリンクと確率的なリンクを [!DNL Device Graph] 共有しています。 リンクの共有は、非常に強力な [!DNL Device Co-op] 要素です。 匿名の人に関連付けられた装置について各会員が知っている範囲を拡張します。ただし、その匿名の人の装置の少なくとも1つを見たことがある場合に限ります。
 
-## Device Graph summary review {#section-7858e9f61b5644c981ffb53626fcc19d}
+## Device Graphの概要の確認 {#section-7858e9f61b5644c981ffb53626fcc19d}
 
-Before getting started, let&#39;s take a moment to review how the [!DNL Device Graph] works. にデータを送 [!DNL Device Co-op] 信するのメンバ [!DNL Device Graph]ー。 このデ [!DNL Device Graph] ータを使用して、デバイス間の決定的なリンクと確率的なリ [ンクから人のアイデンティティ](../processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931) を構築します。 [!DNL Device Co-op] の参加者は、これらのリンクから、認証済みユーザーまたは他のユーザーとデバイスとの関係に関するインサイトを得ることができます。以下の節で、これらがどのように機能するかを見てみましょう。
+始める前に、の [!DNL Device Graph] 動作を確認します。 にデータを [!DNL Device Co-op] 送信するメンバ [!DNL Device Graph]。 このデータ [!DNL Device Graph] を使って、デバイス間の [決定論的なリンクと確率的なリンク](../processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931) 。 参加者として、これらのリンクは、認証済みユーザー、他のユーザーおよびそのデバイスとの関係に関するインサイトを提供します。 [!DNL Device Co-op] 次の節で、これがどのように機能するかを見てみましょう。
 
-## Link sharing example {#section-cb410d827cf14f76bc9b0bd4d31ed767}
+## リンクの共有の例 {#section-cb410d827cf14f76bc9b0bd4d31ed767}
 
-以下の例で、Device Co-op のリンク共有がどのように力を発揮するかを示します。この例では、ニュース会社と金融会社の 2 つの架空の会社があるとします。Both companies are members of the [!DNL Device Co-op]. 人物 A は、複数のデバイスから各会社の Web サイトにログオンまたは閲覧する消費者です。
+次の例は、Device Co-opでのリンク共有の機能を示しています。 この例では、ニュース会社と金融会社の2つの架空の会社があります。 両方の会社は、のメンバー [!DNL Device Co-op]です。 個人Aは、複数のデバイスにログオンしたり、各会社のWebサイトを閲覧したりする消費者です。
 
 ![](assets/share1.png)
 
-人物 A は、携帯電話およびタブレットを使用してニュースサイトに対して認証済みなので、ニュース会社は、消費者 ID で識別しています。It sends that ID to the [!DNL Device Graph] as a cryptographic hash. 金融会社は、以前、これらのデバイスを確認していますが、人物 A はこのサイトにログオンしたことがありません。したがって、金融会社は、これらのデバイスが互いに関連しているかどうかやその方法、またはそれらがどのように人物 A と関連付けられているかを把握していません。
+個人Aは携帯電話とタブレットでニュースサイトに対して認証を行っているので、ニュース会社は消費者IDでユーザーを識別します。 そのIDは、暗号化ハッシュ [!DNL Device Graph] としてに送信されます。 金融会社はこれらのデバイスを以前に見たことがありますが、個人Aはサイトにログオンしていません。 したがって、金融会社は、これらのデバイスが相互に関連し合っているか、どのように関連しているか、または、個人Aとどのように関連付けられているかを知りません。
 
 ![](assets/share2.png)
 
-Given the cryptographic hash of the consumer ID, the [!DNL Device Graph] recognizes that these devices are related to each other and a particular person. [!DNL Device Co-op] に参加していない会社にとって、これらのサイト訪問は、別の、ランダムなデバイスからのもののように見えます。In any case, once the [!DNL Device Graph] has the hashed ID it:
+消費者IDの暗号化ハッシュを与えると、は、これらのデバイスが互いに関連していて特定の人物が関連していることを [!DNL Device Graph] 認識する。 これらのサイトに参加しない会社への訪問は、別々のランダムなデバイスから来ている [!DNL Device Co-op] ように見えます。 いずれにしても、ハッシュ化されたID [!DNL Device Graph] を持つユーザーは、次の操作を実行します。
 
-* 携帯電話とノートパソコンがリンクされていることを把握します。
-* 携帯電話とノートパソコンがリンクされているかどうか、金融会社が知りたがっていることを認識します。
+* 携帯電話とノートパソコンがリンクされていることを知っています。
+* Finance会社が携帯電話とラップトップがリンクされているかどうかを知りたがっていることを認識します。
 
-Given these conditions, the [!DNL Device Graph] now shares the link connecting these devices for the News Company with the Finance Company. During this process, the [!DNL Device Graph] duplicates and shares the link from one co-op member to another.
+これらの条件を考慮して、では、ニュース会社用にこれらのデバイスを接続するリンクを金融会社と共有しています。 [!DNL Device Graph] このプロセス中、 [!DNL Device Graph] 重複は、協力メンバー間のリンクを共有します。
 
 ![](assets/share3.png)
 
-At this point, the [!DNL Device Graph] performed its role successfully. ニュース会社と金融会社は両方とも、ID を明確に把握しています。すべてのデバイスで人物 A に正確にリーチできます。
+この時点で、は、その役割を正常に [!DNL Device Graph] 実行しました。 ニュース会社と金融会社は共に、明確なアイデンティティを持っています。 ユーザーは、すべてのデバイスを通して、ユーザーAに正確に連絡できます。
 
-## Privacy and link sharing {#section-7b566018b3304420a4b3e4c079826110}
+## プライバシーとリンクの共有 {#section-7b566018b3304420a4b3e4c079826110}
 
-リンク共有処理の間、消費者のプライバシーと [!DNL Device Co-op] メンバーのデータの整合性を維持することが非常に重要です。During this customer identification and link sharing process the [!DNL Device Graph] did not:
+ユーザーのプライバシーとメンバーのデータの整合性を維持することは、リンク共有プロセス全体で重要で [!DNL Device Co-op] す。 この顧客の識別およびリンクの共有プロセス中、次の操作は行わ [!DNL Device Graph] れませんでした。
 
-* 金融会社に、リンクがニュース会社から来たものであることを伝える。
-* ある [!DNL Device Co-op] メンバーによって使用された顧客 ID を他のメンバーと共有する。
-* モバイルデバイスおよびノートパソコンが共通のリンクを共有していること以外の情報を提供する。
+* 金融会社に、リンクがニュース会社から来たことを伝えます。
+* あるメンバーが使用する顧客IDを別の [!DNL Device Co-op] メンバーと共有します。
+* モバイルデバイスとノートブックパソコンが共通のリンクを共有する情報以外の情報を入力します。
 
 ## 次の手順 {#section-ac6e61f1eb6e45b1bb4be8ece39147c7}
 
-Reading the documentation on identity, linking, and link sharing should give you a good sense of how the [!DNL Device Graph] assembles data internally. 次のステップとして、デバイス間のリンクをDevice Co-opメンバーに提供するという概念を説明するドキュメ *`known device`* ントを見てみることをお勧めします。 「既知のデ [バイス](../processes/known-device.md#concept-8e87c276819a48bfac5cef10b45216d1) 」および「不明なデ [バイス」を参照してください](../processes/unknown-device.md#concept-95090d341cdc4c22ba4319d79d8f6e40)。
+ID、リンク、およびリンク共有に関するドキュメントを読むと、データが内部的にどのようにアセンブルされるかをよく理解できるはずです。 [!DNL Device Graph] 次のステップとして、デバイス間のリンクをDevice Co-opメンバーに *`known device`* 提供するという概念について説明したドキュメントを見ることをお勧めします。 「 [既知のデバイス](../processes/known-device.md#concept-8e87c276819a48bfac5cef10b45216d1) 」および「 [不明なデバイス](../processes/unknown-device.md#concept-95090d341cdc4c22ba4319d79d8f6e40)」を参照してください。
