@@ -1,18 +1,21 @@
 ---
-description: 人物指標は、アドビのDevice Graphに基づく人（またはデバイスのグループ）の数です。 人物指標を適用して、分析ワークスペースのデバイス間で訪問者を識別できます。
-seo-description: 人物指標は、アドビのDevice Graphに基づく人（またはデバイスのグループ）の数です。 人物指標を適用して、分析ワークスペースのデバイス間で訪問者を識別できます。
+description: 人物指標は、AdobeのDevice Graphに基づく人（またはデバイスのグループ）の数です。 「人物」指標を適用すると、Analysis Workspaceのデバイス間で訪問者を識別できます。
+seo-description: 人物指標は、AdobeのDevice Graphに基づく人（またはデバイスのグループ）の数です。 「人物」指標を適用すると、Analysis Workspaceのデバイス間で訪問者を識別できます。
 seo-title: 人物指標
 title: 人物指標
 uuid: 8e731779-044d-4d31-a19a-f579a9c8c471
 translation-type: tm+mt
 source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
+workflow-type: tm+mt
+source-wordcount: '1408'
+ht-degree: 3%
 
 ---
 
 
 # 人物指標{#people-metric}
 
-人物指標は、アドビのDevice Graphに基づく人（またはデバイスのグループ）の数です。 人物指標を適用して、分析ワークスペースのデバイス間で訪問者を識別できます。
+人物指標は、AdobeのDevice Graphに基づく人（またはデバイスのグループ）の数です。 「人物」指標を適用すると、Analysis Workspaceのデバイス間で訪問者を識別できます。
 
 ## 人物指標の前提条件と考慮事項 {#section-34551d0435fb4b3cb3fad736b7961541}
 
@@ -25,8 +28,8 @@ source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>デバイス Co-op </p> </td> 
-   <td colname="col2"> <p> 人物指標を使用するには、 <a href="http://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html" format="html" scope="external"> Adobe Experience Cloud Device Co-opのメンバーになります</a>。 Co-opは、人の複数のデバイス（またはExperience Cloud ID）を識別します。 Analyticsは、この情報を利用して、ブランドとやり取りする人の数を統計的に導きます。 指標の正確性は5 %以内です。 </p> <p><b>地域</b>: Device Co-opは現在、米国およびカナダでのみご利用いただけます。 したがって、人物指標を評価する場合は、米国とカナダのみのデータをフィルターするセグメントを分析に適用する必要があります。 </p> <p>Device Graphは毎週Co-opの新しいバージョンを計算し、使用するために公開します。 火曜日に、システムは最新のデータを収集し、更新されたバージョンのグラフを公開します。 次に、Experience Cloudソリューションは最新バージョンのグラフを使用します。 特にAnalyticsでは、変更は水曜日に読み込まれ、処理には通常1 ～ 2営業日かかります。 </p> <p> <p>重要：  グラフが毎週更新される場合、訪問者指標は過去に遡って影響を受ける可能性があります。 つまり、過去の訪問者数は、グラフが学習し、更新されると、時間の経過とともに変化する可能性があります。 例えば、先月「人」というレポートをカウントし、グラフの更新後1週間で同じレポートを実行する今日のレポートを実行した場合、「人」のカウント履歴が少し変わる可能性があります。 </p> </p> </td> 
+   <td colname="col1"> <p>Device Co-op </p> </td> 
+   <td colname="col2"> <p> 人物指標を使用するには、 <a href="http://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html" format="html" scope="external"> Adobe Experience Cloudデバイス協力会社のメンバーになります</a>。 Co-opは、個人の複数のデバイス(またはExperience CloudID)を識別します。 Analyticsは、この情報を利用して、ブランドとやり取りする人の数を統計的に導きます。 指標の正確性は5 %以内です。 </p> <p><b>地域</b>:Device Co-opは現在、米国およびカナダでのみご利用いただけます。 したがって、人物指標を評価する場合は、米国とカナダのみのデータをフィルターするセグメントを分析に適用する必要があります。 </p> <p>Device Graphは毎週Co-opの新しいバージョンを計算し、使用するために公開します。 火曜日に、システムは最新のデータを収集し、更新されたバージョンのグラフを公開します。 次に、Experience Cloudソリューションは最新バージョンのグラフを使用します。 特にAnalyticsでは、変更は水曜日に読み込まれ、処理には通常1 ～ 2営業日かかります。 </p> <p> <p>重要： グラフが毎週更新される場合、訪問者指標は過去に遡って影響を受ける可能性があります。 つまり、過去の訪問者数は、グラフが学習し、更新されると、時間の経過とともに変化する可能性があります。 例えば、先月「人」というレポートをカウントし、グラフの更新後1週間で同じレポートを実行する今日のレポートを実行した場合、「人」のカウント履歴が少し変わる可能性があります。 </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> 指標権限 </td> 
@@ -38,11 +41,11 @@ source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
   </tr> 
   <tr> 
    <td colname="col1"> <p>分析プロジェクト/ツール </p> </td> 
-   <td colname="col2"> <p>分析ワークスペース <span class="wintitle"> 、</span>アドホック分析 <span class="wintitle"> 、</span>Report Builder <span class="wintitle"></span>、APIを介して、ユーザー指標を使用します。 計算指標を含め、どこで実訪問者数指標を使用しても、この指標を使用できます。 </p> <p>例えば、1人あたりの売上高指標を作成して、個別訪問者あたりの売上高指標を置き換えます。 </p> <p>Peopleプロジェクトテンプレート <a href="https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html" format="html" scope="external"></a> (People Project)を使用して、分析ワークスペースの人物指標を使い始めることができます。 </p> </td> 
+   <td colname="col2"> <p>Analysis Workspace <span class="wintitle"> 、</span>Ad Hoc Analysis <span class="wintitle"> 、</span>Report Builder <span class="wintitle"></span>、API経由で人物指標を使用します。 計算指標を含め、どこで実訪問者数指標を使用しても、この指標を使用できます。 </p> <p>例えば、1人あたりの売上高指標を作成して、個別訪問者あたりの売上高指標を置き換えます。 </p> <p>Analysis Workspaceの <a href="https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html" format="html" scope="external"> 人物指標を使い始めるには</a> 、人物プロジェクトテンプレートを使用できます。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ボットルールを有効にする </p> </td> 
-   <td colname="col2"> <p>特に人物指標を使用する場合は、 <a href="https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/bot-removal/bot-rules.html" format="html" scope="external"> ボットルール</a>(Bot Rules)をオンにすることをお勧めします。 </p> <p>ボットがWebサイトをクロールすると、個別訪問者数が人為的に増加します。 レポートスイートからボットトラフィックを削除すると、個別訪問者数と個人数の両方の観点から、デジタルプロパティのアクティビティをより正確に測定できます。 </p> <p>その場合は、 <span class="uicontrol"> Analytics</span> / <span class="uicontrol"> 管理者</span> / <span class="uicontrol"> レポートスイートに移動します</span>。 Select the correct report suite, and then go to <span class="uicontrol"> Edit Settings</span> &gt; <span class="uicontrol"> General</span> &gt; <span class="uicontrol"> Bot Rules</span>. </p> </td> 
+   <td colname="col2"> <p>Adobeでは、特に人物指標を使用する場合に <a href="https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/bot-removal/bot-rules.html" format="html" scope="external"> 、ボットルール</a>(Bot Rules)をオンにすることをお勧めします。 </p> <p>ボットがWebサイトをクロールすると、個別訪問者数が人為的に増加します。 レポートスイートからボットトラフィックを削除すると、個別訪問者数と個人数の両方の観点から、デジタルプロパティのアクティビティをより正確に測定できます。 </p> <p>その場合は、 <span class="uicontrol"> Analytics</span> / <span class="uicontrol"> 管理者</span> / <span class="uicontrol"> レポートスイートに移動します</span>。 Select the correct report suite, and then go to <span class="uicontrol"> Edit Settings</span> &gt; <span class="uicontrol"> General</span> &gt; <span class="uicontrol"> Bot Rules</span>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>セグメントに関する考慮事項 </p> </td> 
@@ -65,7 +68,7 @@ source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
 
 **レポートの精度の向上**
 
-人物指標を使用すると、複数のデバイスを単一のエンティティと考えることができます。 次の分析ワークスペースプロジェクトは、実訪問者レポートと個人レポートの間の精度の比較を強化したものです。
+人物指標を使用すると、複数のデバイスを単一のエンティティと考えることができます。 次のAnalysis Workspaceプロジェクトは、実訪問者レポートと人物レポートの比較精度を向上させています。
 
 ![](assets/people_report.png)
 
@@ -89,7 +92,7 @@ source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
   </tr> 
   <tr> 
    <td colname="col1"> <p>個別訪問者数 </p> </td> 
-   <td colname="col2"> <p>例えば、日時別にデータをスライスするほど、個人訪問者と個別訪問者の違いは小さくなります。 Device Co-opの全体的な影響を十分に理解したい場合は、過去90日間の日付範囲を使用することをお勧めします。 </p> </td> 
+   <td colname="col2"> <p>例えば、日時別にデータをスライスするほど、個人訪問者と個別訪問者の違いは小さくなります。 Device Co-opの全体的な影響を十分に理解したい場合は、過去90日間の日付範囲を使用することをAdobeにお勧めします。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>圧縮 </p> </td> 
@@ -120,7 +123,7 @@ source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
 
 セグメントを積み重ねると、セグメントの組み合わせを表す新しいセグメントが作成されます。 セグメントの積み重ねは、次の場合に必ず行われます。
 
-* セグメントを分析ワークスペース内の別のセグメントの上に配置します。 (これらは、 *`And`* 演算子を使用して自動的に結合されます)。
+* セグメントをAnalysis Workspaceの別のセグメントの上に配置します。 (これらは、 *`And`* 演算子を使用して自動的に結合されます)。
 * 演算子を含む単一のセグメントを適用し *`And`* ます。
 * プロジェクトレベルと表レベルの両方でセグメントを適用します。
 * 別のセグメントで仮想レポートスイートを使用する。
@@ -138,19 +141,19 @@ source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
 
 ## デバイスタイプ {#section-8ab378c84ff34574b9c20fecb3848a86}
 
-Device Co-opとPeople指標は、レポートスイートに複数のデバイスタイプからのデータが含まれている場合、Adobe Analyticsで最も効果的です。 例えば、同じレポートスイートでWebデータとアプリデータを組み合わせると、人物指標の強力さと効率性が向上します。 データ内でのデバイスの重複が多いほど、複数の個別訪問者が1人のユーザーとしてグループ化される可能性が高くなります。
+Device Co-op指標とPeople指標は、レポートスイートに複数のデバイスタイプからのデータが含まれている場合に、Adobe Analyticsで最も効果的に機能します。 例えば、同じレポートスイートでWebデータとアプリデータを組み合わせると、人物指標の強力さと効率性が向上します。 データ内でのデバイスの重複が多いほど、複数の個別訪問者が1人のユーザーとしてグループ化される可能性が高くなります。
 
 ![](assets/people-device-types.png)
 
 ## Experience Cloud ID Service Coverage {#section-bbf0098cac2e467289e7a644a1dea05c}
 
-Device Co-opでは、Experience Cloud ID(MCID)サービスを使用してデジタルプロパティを実装する必要があります。 レポートスイート内のデータにMCIDを持たない訪問者が大量に含まれている場合、Device Co-opとPeople指標の効果は低下します。
+Device Co-opでは、Experience CloudID(MCID)サービスを使用してデジタルプロパティを実装する必要があります。 レポートスイート内のデータにMCIDを持たない訪問者が大量に含まれている場合、Device Co-opとPeople指標の効果は低下します。
 
 <!--
 mcdc-people-metric-apply.xml
 -->
 
-分析ワークスペースで、 [プロジェクトを作成し](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/t-freeform-project.html)、 **[!UICONTROL People]** 指標をプロジェクトテーブルにドラッグします。
+Analysis Workspaceで [プロジェクトを作成し](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/build-workspace-project/t-freeform-project.html)、 **[!UICONTROL People]** 指標をプロジェクトテーブルにドラッグします。
 
 ![](assets/people-metric.png)
 
