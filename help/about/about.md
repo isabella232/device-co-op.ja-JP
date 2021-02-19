@@ -15,5 +15,5 @@ ht-degree: 11%
 
 # Device Co-opについて{#about-the-device-co-op}
 
-## Device Co-opについて {#topic-9274c05e67b6497981d8073a971fae4b}
+## Device Co-opについて{#topic-9274c05e67b6497981d8073a971fae4b}
 
