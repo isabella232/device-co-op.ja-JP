@@ -13,8 +13,8 @@ ht-degree: 0%
 ---
 
 
-# ユーザーのオプトアウトツール、プライバシーおよびDevice Graph{#consumer-opt-out-tool-privacy-and-the-device-graph}
+# コンシューマーオプトアウトツール、プライバシー、Device Graph{#consumer-opt-out-tool-privacy-and-the-device-graph}
 
 Device Co-opが消費者のプライバシーを保護する方法。
 
-Device Co-opが消費者のプライバシーを保護する方法については、 [Device Co-op Privacy Control](https://cross-device-privacy.adobe.com/) ( [!DNL Adobe Experience Cloud] Device Co-opのプライバシー管理)サイトを参照してください。
+[!DNL Adobe Experience Cloud] Device Co-opが消費者のプライバシーを保護する方法については、[Device Co-op Privacy Control](https://cross-device-privacy.adobe.com/)のサイトを参照してください
