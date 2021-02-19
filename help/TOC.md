@@ -16,16 +16,16 @@ ht-degree: 31%
 # Device Co-op ガイド {#using}
 
 + [Adobe Experience Cloudデバイス協力会社ドキュメント](home.md)
-+ Device Co-opについて {#about}
++ Device Co-opについて{#about}
    + [概要](about/overview.md)
    + [メンバーシップ要件](about/requirements.md)
-+ デバイスグラフについて {#device-graph}
++ Device Graphについて{#device-graph}
    + [デバイスグラフの概要](processes/device-graph-overview.md)
    + [決定論的リンクと確率的リンク](processes/links.md)
    + [Device Graphでのリンクの共有](processes/link-sharing.md)
    + [既知のデバイス](processes/known-device.md)
    + [不明なデバイス](processes/unknown-device.md)
-+ Experience CloudソリューションのDevice Co-opデータ {#data}
++ Experience CloudソリューションのDevice Co-opデータ{#data}
    + [Experience CloudソリューションのDevice Co-opデータ](other-solutions/other-solutions.md)
    + [人物指標](other-solutions/people.md)
    + [Audience Manager-プロファイルリンク](other-solutions/proflie-link.md)
