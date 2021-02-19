@@ -19,4 +19,4 @@ Device Graphデータは、プロファイルリンクでマージルールオ�
 
 プロファイルリンクは、デバイス間のデータソースを操作して、認証済みのサイト訪問者の特性を識別および収集します。 プロファイル結合ルール機能が含まれます。 プロファイル結合ルールを使用すると、セグメンテーションに使用するデータセットを管理できます。また、複数のデバイスにわたって個人を正確にターゲットに設定することができます。
 
-See the [Profile Link documentation](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) for more information.
+詳しくは、[プロファイルリンクのドキュメント](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)を参照してください。
