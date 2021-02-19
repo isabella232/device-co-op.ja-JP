@@ -13,7 +13,7 @@ ht-degree: 24%
 ---
 
 
-# Experience CloudDevice Co-opリリースノート{#experience-cloud-device-co-op-release-notes}
+# Experience CloudデバイスCo-opリリースノート{#experience-cloud-device-co-op-release-notes}
 
 Device Co-opの機能リリース、更新、変更点です。
 
