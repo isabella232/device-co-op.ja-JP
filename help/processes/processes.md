@@ -13,5 +13,5 @@ ht-degree: 14%
 ---
 
 
-# デバイスグラフについて{#about-the-device-graph}
+# Device Graphについて{#about-the-device-graph}
 
