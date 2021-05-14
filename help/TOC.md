@@ -4,11 +4,10 @@ product: device co-op
 audience: end-user
 user-guide-title: Device Co-op ガイド
 user-guide-description: Adobe Experience Cloud Device Co-op は、参加する顧客がデバイスリンク情報を共有できるデジタルコラボレーションサービスです。この情報を活用することで、貴重で一貫性のある、クロスデバイスエクスペリエンスをユーザーに提供できます。
-translation-type: tm+mt
-source-git-commit: edb9233d29d46d7d559a513bbdaa81fa86e77418
+source-git-commit: e7a53a4892a8769fc178f5f3f2b82201589177b2
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 31%
+source-wordcount: '123'
+ht-degree: 30%
 
 ---
 
@@ -17,6 +16,7 @@ ht-degree: 31%
 
 + [Adobe Experience Cloudデバイス協力会社ドキュメント](home.md)
 + Device Co-opについて{#about}
+   + [提供終了のお知らせ](about/device-co-op-eol.md)
    + [概要](about/overview.md)
    + [メンバーシップ要件](about/requirements.md)
 + Device Graphについて{#device-graph}
