@@ -1,17 +1,14 @@
 ---
-description: IDサービス協同組合とIDグラフに関してよく寄せられる質問の説明と回答です。
-seo-description: IDサービス協同組合とIDグラフに関してよく寄せられる質問の説明と回答です。
-seo-title: FAQ
-title: FAQ
+description: Device Co-op（Identity Services CooperativeとIdentity Graph）に関するよくある質問と、その回答を示します。
+title: Device Co-op FAQ
 uuid: 490566e1-4d35-468c-8389-678f9ff02cc8
-translation-type: tm+mt
-source-git-commit: c1d0bc05d3f211fa3e899e98fbcc908be7399031
+exl-id: 6511e247-76a7-4960-944c-b49fd046fb28
+source-git-commit: e7a53a4892a8769fc178f5f3f2b82201589177b2
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '477'
 ht-degree: 1%
 
 ---
-
 
 # FAQ{#faq}
 
