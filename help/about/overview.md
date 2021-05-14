@@ -4,14 +4,13 @@ seo-description: Device Co-opは、プライバシーと透明性を最大限に
 seo-title: 概要
 title: 概要
 uuid: 9e2502db-0dc6-4b0f-965f-71894fb1f9d4
-translation-type: tm+mt
-source-git-commit: c1d0bc05d3f211fa3e899e98fbcc908be7399031
+exl-id: 8195162c-fab4-49d8-8f6f-1e9ed96ffaa7
+source-git-commit: e7a53a4892a8769fc178f5f3f2b82201589177b2
 workflow-type: tm+mt
 source-wordcount: '879'
 ht-degree: 1%
 
 ---
-
 
 # 概要{#overview}
 
@@ -35,7 +34,7 @@ we may not want to share info in this with customers who have not signed. Also, 
 
 [!DNL Device Co-op]内[!DNL Adobe]:
 
-* **データ管理者です：**Device Co-opメンバーは、データを直接共有しません。 代わりに[!DNL Adobe]は、[!DNL Device Graph]を介してCo-opにデバイスリンクデータを提供するブローカーとしての役割を果たします。 Device Co-opのメンバーは、有効な[!DNL Experience Cloud]ソリューションの機能を通して、このデータを扱うことができます。
+* **データ管理：** Device Co-opメンバーは、データを直接共有しません。代わりに[!DNL Adobe]は、[!DNL Device Graph]を介してCo-opにデバイスリンクデータを提供するブローカーとしての役割を果たします。 Device Co-opのメンバーは、有効な[!DNL Experience Cloud]ソリューションの機能を通して、このデータを扱うことができます。
 
 * **データの公平性を信じる：** 公平なデータ共有はDevice Co-opの重要な概念です。すべての[!DNL Device Co-op]メンバーは、貢献度に対する値を受け取ります。 サイトの訪問や広告のインプレッションで匿名の人とやりとりをしたことがない場合、[!DNL Device Graph]でその人のデバイスに関する情報は得られません。 Device Co-opは、ブランドが一般的でないデバイスを使用している慣れ親しんだ消費者を認識するのに役立ちます。
 
