@@ -4,7 +4,7 @@ product: device co-op
 audience: end-user
 user-guide-title: Device Co-op ガイド
 user-guide-description: Adobe Experience Cloud Device Co-op は、参加する顧客がデバイスリンク情報を共有できるデジタルコラボレーションサービスです。この情報を活用することで、貴重で一貫性のある、クロスデバイスエクスペリエンスをユーザーに提供できます。
-source-git-commit: e7a53a4892a8769fc178f5f3f2b82201589177b2
+source-git-commit: bd11b8b760faf90a5b0699315b7eef95b1b1e759
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 30%
@@ -14,23 +14,23 @@ ht-degree: 30%
 
 # Device Co-op ガイド {#using}
 
-+ [Adobe Experience Cloudデバイス協力会社ドキュメント](home.md)
-+ Device Co-opについて{#about}
-   + [提供終了のお知らせ](about/device-co-op-eol.md)
++ [Adobe Experience Cloud Device Co-opのドキュメント](home.md)
++ Device Co-op {#about}について
+   + [Device Co-opのサポート終了に関するFAQ](about/device-co-op-eol.md)
    + [概要](about/overview.md)
    + [メンバーシップ要件](about/requirements.md)
-+ Device Graphについて{#device-graph}
++ デバイスグラフについて{#device-graph}
    + [デバイスグラフの概要](processes/device-graph-overview.md)
-   + [決定論的リンクと確率的リンク](processes/links.md)
-   + [Device Graphでのリンクの共有](processes/link-sharing.md)
+   + [決定論的リンクと確率論的リンク](processes/links.md)
+   + [デバイスグラフでのリンク共有](processes/link-sharing.md)
    + [既知のデバイス](processes/known-device.md)
    + [不明なデバイス](processes/unknown-device.md)
 + Experience CloudソリューションのDevice Co-opデータ{#data}
-   + [Experience CloudソリューションのDevice Co-opデータ](other-solutions/other-solutions.md)
+   + [Experience CloudソリューションにおけるDevice Co-opデータ](other-solutions/other-solutions.md)
    + [人物指標](other-solutions/people.md)
-   + [Audience Manager-プロファイルリンク](other-solutions/proflie-link.md)
-   + [ターゲット- A/Bテスト、多変量分析テスト、エクスペリエンスのターゲット設定](other-solutions/target.md)
-+ [ユーザーのオプトアウトツール、プライバシーおよびDevice Graph](privacy.md)
-+ [Device Co-op用語集](glossary.md)
+   + [Audience Manager — プロファイルリンク](other-solutions/proflie-link.md)
+   + [Target - A/Bテスト、多変量分析テスト、エクスペリエンスのターゲット設定](other-solutions/target.md)
++ [消費者のオプトアウトツール、プライバシーおよびデバイスグラフ](privacy.md)
++ [Device Co-opの用語集](glossary.md)
 + [FAQ](faq.md)
-+ [Experience CloudデバイスCo-opリリースノート](release-notes.md)
++ [Experience CloudDevice Co-opリリースノート](release-notes.md)
