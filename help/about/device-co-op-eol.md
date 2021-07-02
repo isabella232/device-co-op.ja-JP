@@ -1,12 +1,12 @@
 ---
 keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-op；提供終了
-solution: Adobe Experience Cloud
 title: Device Co-opの提供終了に関するFAQ
 description: Device Co-opの提供終了プランについて説明します。
-source-git-commit: b9e21ba2f749b7a4ad69c122e2273b7f3309da58
+exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
+source-git-commit: c19e8425d5d6c2498186c19929907d2ee5327b31
 workflow-type: tm+mt
 source-wordcount: '1017'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -51,7 +51,7 @@ AdTech環境での今後の変更は、今後数年間で[!DNL Device Co-op]が�
 
 ### [!DNL Analytics]
 
-[!DNL Analytics] [クロスデバイス分析(CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html)機能は、Adobe Experience Platform IDサービス[プライベートグラフ](https://experienceleague.adobe.com/docs/analytics/components/cda/device-graph.html?lang=en)と[フィールドベースのステッチ](https://experienceleague.adobe.com/docs/analytics/components/cda/field-based-stitching.html?lang=en)の両方をサポートしているので、使用できます。
+[!DNL Analytics] [クロスデバイス分析(CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html?lang=ja)機能は、Adobe Experience Platform IDサービス[プライベートグラフ](https://experienceleague.adobe.com/docs/analytics/components/cda/device-graph.html?lang=en)と[フィールドベースのステッチ](https://experienceleague.adobe.com/docs/analytics/components/cda/field-based-stitching.html?lang=en)の両方をサポートしているので、使用できます。
 
 ### [!DNL Audience Manager]
 
@@ -77,7 +77,7 @@ AdTech環境での今後の変更は、今後数年間で[!DNL Device Co-op]が�
 
 既存の訪問者IDサービスの実装により、Analyticsの[CDA](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html)が強化されます。 既存の宣言済みIDがハッシュ化された電子メールである場合は、これを使用して次の機能を強化できます。
 
-- [!DNL Audience Manager] [People-Based Destinations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)を参照してください。
+- [!DNL Audience Manager] [People-Based Destinations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=ja).
 - [Experience Platformセグメントの一致（アルファ） ](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)を参照してください。
 
 ## [!DNL Device Co-op]からデータを保持することはできますか？
