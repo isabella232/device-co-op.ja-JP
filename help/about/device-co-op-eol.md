@@ -1,97 +1,97 @@
 ---
-keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-op；提供終了
-title: Device Co-opの提供終了に関するFAQ
-description: Device Co-opの提供終了プランについて説明します。
+keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-op;end-of-life
+title: Device Co-op の提供終了に関する FAQ
+description: Device Co-op の提供終了プランについて説明します。
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: c19e8425d5d6c2498186c19929907d2ee5327b31
+source-git-commit: 8896718ce5fec25cb72f7a2a5ccb4573433e0bb1
 workflow-type: tm+mt
-source-wordcount: '1017'
-ht-degree: 4%
+source-wordcount: '1019'
+ht-degree: 5%
 
 ---
 
-# Device Co-opの提供終了に関するFAQ
+# Device Co-op の提供終了に関する FAQ
 
-このドキュメントでは、Adobe Experience Cloud Device Co-opの提供終了(EOL)プランに関するよくある質問に対する回答を示します。 この計画が実施されると、Adobeは、[Experience Cloudリリースノート](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ja)と[Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html)に詳細な通知を提供します。
+このドキュメントでは、Adobe Experience Cloud Device Co-op の提供終了 (EOL) プランに関するよくある質問に対する回答を示します。 この計画が実施されると、Adobeは、 [Experience Cloudリリースノート](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ja) そして [優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html).
 
 ## FAQ
 
-以下は、[!DNL Device Co-op] EOL計画に関するよくある質問に対する回答のリストです。
+次に、 [!DNL Device Co-op] EOL プラン。
 
-## [!DNL Device Co-op]が廃止されるのはなぜですか？
+## の理由 [!DNL Device Co-op] 非推奨になっていますか？
 
-AdTech環境での今後の変更は、今後数年間で[!DNL Device Co-op]が古いソリューションになると予想されます。 [!DNL Device Co-op] は主にサードパーティCookieで構成されてお [!DNL Google's] り、2022年までにサードパーティCookieをブロックする [!DNL Google Chrome] とのお知らせにより、の効果が低下し [!DNL Device Co-op]ます。[!DNL Chrome] には、ブラウザー市場でのシェアの約65%と、その他の主要なブラウザーでは、既にサードパーティcookieのブロック機能が実装されています。[!DNL Chrome]がサードパーティCookieをブロックすると、サードパーティCookieの大部分はブロックされ、[!DNL Device Co-op]は古くなります。
+AdTech 環境での今後の変更により、次のような結果になると予想されます。 [!DNL Device Co-op] 今後数年で時代遅れの解決策となる [!DNL Device Co-op] は、主にサードパーティ Cookie で構成され、 [!DNL Google's] に対するサードパーティ Cookie のブロックについてのお知らせ [!DNL Google Chrome] 2022 年までには～の効果が低下する [!DNL Device Co-op]. [!DNL Chrome] には、ブラウザー市場でのシェアの約 65%と、その他の主要ブラウザーでは、既にサードパーティ cookie のブロック機能が実装されています。 1 回 [!DNL Chrome] はサードパーティ Cookie をブロックし、大部分のサードパーティ Cookie はブロックされ、 [!DNL Device Co-op] は古くなります。
 
-## Adobeが[!DNL Device Co-op]サインアップを終了する理由
+## Adobe終了の理由 [!DNL Device Co-op] 今すぐサインアップしますか？
 
-サインアップは、サードパーティCookieに関する業界の変更が今後おこなわれるので、顧客の期待に応えないリスクを防ぐために終わります。 [!DNL Device Co-op] サービスから価値を引き出すのに数ヶ月かかり、さらに数ヶ月かかります。この時点でこれ以上サインアップすると、ブランドで[!DNL Device Co-op]の完全な値が得られない可能性があります。
+サインアップは、サードパーティ Cookie に関する今後の業界の変更により、顧客の期待に応えないリスクを防ぐために終わります。 [!DNL Device Co-op] サービスの価値を抽出するには、数ヶ月かかり、さらに数ヶ月かかります。 この時点でこれ以上の新規登録をおこなうと、企業は [!DNL Device Co-op].
 
 ## 新規顧客は新規登録できますか？
 
-2021年6月11日以降、Adobeは[!DNL Device Co-op]への新規登録を受け付けなくなります。
+2021 年 6 月 11 日以降、Adobeは、 [!DNL Device Co-op].
 
 ## 既存の契約は更新されていますか。
 
-2021年6月11日以降、Adobeは[!DNL Device Co-op]契約を更新しなくなります。 [!DNL Device Co-op]サービスを引き続き使用する場合は、プログラムが終了するまで、現在のライセンス条項に従って引き続き使用することができます。
+2021 年 6 月 11 日以降、Adobeは更新されません [!DNL Device Co-op] 契約。 を引き続き使用する場合は、 [!DNL Device Co-op] サービスを使用する場合は、プログラムが終了するまで、現在のライセンス条件で引き続きおこなうことができます。
 
-## [!DNL Device Co-op]プログラムの正確な終了日は？
+## 終了日： [!DNL Device Co-op] プログラム？
 
-[!DNL Device Co-op]プログラムは2022年に終了します。 特定のタイミングと日付は、 [!DNL Google]がサードパーティCookieのブロックを開始するタイミングによって異なります。
+この [!DNL Device Co-op] プログラムは 2022 年に終了します。 特定のタイミングと日付は、 [!DNL Google] がサードパーティ Cookie のブロックを開始します。
 
-## Device Co-opの提供終了によって影響を受けるアプリケーションはどれですか。
+## Device Co-op の提供終了によって影響を受けるアプリケーションはどれですか。
 
-以下のアプリケーションは、[!DNL Device Co-op]提供終了の手順の影響を受けます。
+以下のアプリケーションは、 [!DNL Device Co-op] サポート終了手順：
 
-- [Adobe Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=en)
+- [Adobe Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=ja)
 - [Adobe Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=en)
 - [Adobe Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud.html?lang=en)
 - [Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en)
 
-## [!DNL Device Co-op]の代替手段として、どのような選択肢がありますか？
+## の代替手段として提供されているオプション [!DNL Device Co-op]?
 
 ### [!DNL Analytics]
 
-[!DNL Analytics] [クロスデバイス分析(CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html?lang=ja)機能は、Adobe Experience Platform IDサービス[プライベートグラフ](https://experienceleague.adobe.com/docs/analytics/components/cda/device-graph.html?lang=en)と[フィールドベースのステッチ](https://experienceleague.adobe.com/docs/analytics/components/cda/field-based-stitching.html?lang=en)の両方をサポートしているので、使用できます。
+以下を使用して、 [!DNL Analytics] [クロスデバイス分析 (CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html?lang=ja) 機能 (Adobe Experience Platform Identity Service の両方をサポート ) [プライベートグラフ](https://experienceleague.adobe.com/docs/analytics/components/cda/device-graph.html?lang=en) および [フィールドベースのステッチ](https://experienceleague.adobe.com/docs/analytics/components/cda/field-based-stitching.html?lang=en).
 
 ### [!DNL Audience Manager]
 
-[!DNL Audience Manager] は、やを含むサードパーティデバイスグラフパートナーとの統合を維持しま [!DNL LiveRamp] す [!DNL Tapad]。ただし、を活用するには、グラフパートナーとの商業関係を直接確立する必要があり [!DNL Audience Manager]ます。
+[!DNL Audience Manager] は、次を含むサードパーティのデバイスグラフパートナーとの統合を維持しています。 [!DNL LiveRamp] および [!DNL Tapad]を活用するには、グラフパートナーとの商用関係を直接確立する必要があります。 [!DNL Audience Manager].
 
 ### [!DNL Real-time Customer Data Platform]
 
-現在の[!DNL Audience Manager Data Management Platform](DMP)を変更する予定はありません。 ただし、サードパーティCookieの廃止により、ほとんどのDMPユーザーにとってスケール上の課題が生じる可能性があります。 お客様がデータ管理の慣行を発展させるために、Adobeでは、来年に制限を受けるIDに対する依存関係を減らすことを推奨しています。 マーケティングチームは、個人を特定できる情報(PII)を含む永続的な識別子に焦点を当てたファーストパーティのデータ戦略を構築する必要があります。PIIは[!DNL Real-time Customer Data Platform]（リアルタイムCDP）で解決できます。
+現在の [!DNL Audience Manager Data Management Platform] (DMP)。 ただし、サードパーティ Cookie の廃止により、ほとんどの DMP ユーザーに対して大規模な課題が生じる可能性があります。 Adobeは、データ管理の慣行を発展させるために、来年の制限に直面する識別子に対する依存関係を減らすことを推奨しています。 マーケティングチームは、個人を特定できる情報 (PII) を含む永続的な識別子に焦点を当て、で解決できるファーストパーティのデータ戦略を構築する必要があります [!DNL Real-time Customer Data Platform] （リアルタイム CDP）。
 
-[!DNL Real-time CDP] は、オーディエンス作成に使用できる識別子のセットをPIIを含めるように拡張することで、サードパーティCookieとデバイスIDとの依存関係を減らします。[!DNL Real-time CDP]の基礎となるのはリアルタイム顧客プロファイルで、個人の属性データと行動データをリアルタイムで統合し、マーケターは特許取得済みのデータガバナンスコントロールを使用して豊富なオーディエンスセグメントを作成できます。 [!DNL Audience Manager]と同様に、[!DNL Real-time CDP]はインサイトやパーソナライゼーションの使用例を強化し、より詳細な個人レベルのインサイトを生み出し、有料メディア、ソーシャルメディア、電子メール、顧客システムなど、広告技術やマーケティング技術にまたがる幅広い宛先にオーディエンスをアクティブ化できます。
+[!DNL Real-time CDP] は、オーディエンス作成に使用できる識別子のセットを PII を含めるように拡張することで、サードパーティ Cookie とデバイス ID への依存を減らします。 ～に関する基礎的な [!DNL Real-time CDP] はリアルタイムの顧客プロファイルで、個人属性データと行動データをリアルタイムで統合し、マーケターは特許取得済みのデータガバナンス制御を使用して豊富なオーディエンスセグメントを作成できます。 次に類似 [!DNL Audience Manager], [!DNL Real-time CDP] を活用すると、インサイトとパーソナライゼーションの使用例に加えて、より詳細な個人レベルのインサイトを生成し、有料メディア、ソーシャルメディア、電子メール、顧客システムなど、広告技術とマーケティング技術にわたる幅広い宛先に対してオーディエンスをアクティブ化できます。
 
-[!DNL Real-time CDP] また、には [Adobe Experience Platform Segment Match（アルファ）](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)へのアクセスも含まれます。これにより、ブランドはパートナーシップを通じて自社のファーストパーティデータセットを拡張し、インサイトとパーソナライゼーションを向上させることができます。
+[!DNL Real-time CDP] は、 [Adobe Experience Platform Segment Match（ベータ版）](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html?lang=en)：ブランドは、パートナーシップを通じて自社のファーストパーティデータセットを拡張し、インサイトとパーソナライゼーションを改善できます。
 
 ### [!DNL Target]
 
-[!DNL Target]には、現在、[!DNL Target]がAdobeの顧客IDと同様に機能する、決定論的なクロスデバイスIDステッチ機能(`mbox3rdPartyId`)を提供しているので、に代替手段はありません。 この機能を使用すると、[!DNL Target]のお客様は、インバウンドチャネルでおこなわれる[!DNL Target]テストとパーソナライゼーション全体で、プロファイルとアクティビティのパーティシペーションを結合できます。
+現在、次の代替手段はありません： [!DNL Target] 理由 [!DNL Target] は、 `mbox3rdPartyId`は、Adobeの顧客 ID と同様に機能します。 この機能により、 [!DNL Target] のお客様が、複数のプロファイルとアクティビティのパーティシペーションを結合する [!DNL Target] インバウンドチャネルでのテストとパーソナライゼーションの実行。
 
 ### Adobe Advertising Cloud
 
-[!DNL Advertising Cloud] をご利用のお客様は、クロスデバイスオーディエンスのタ [!DNL Device Co-op] ーゲティングと測定にを使用できなくなります。[!DNL Advertising Cloud]では、[!DNL LiveRamp]とのAdobeの[!DNL Device Graph]パートナーシップを活用して、[!DNL LiveRamp’s]の能力と規模に応じて、引き続きこれらの機能を実行できます。 [!DNL Device Co-op]を使用しているキャンペーンを終了することを許可して、[!DNL LiveRamp]デバイスグラフプロバイダーに切り替えるか、ユーザーベースのターゲティングを利用しなくする必要があります。
+[!DNL Advertising Cloud] のお客様は、 [!DNL Device Co-op] クロスデバイス対応のオーディエンスのターゲティングおよび測定用。 を使用 [!DNL Advertising Cloud]を使用しない場合、Adobeの [!DNL Device Graph] ～との提携 [!DNL LiveRamp] これらの機能を～の範囲内で引き続き実行する [!DNL LiveRamp’s] 能力と規模。 を使用しているキャンペーンを許可する必要があります [!DNL Device Co-op] をクリックして終了し、次に [!DNL LiveRamp] デバイスグラフプロバイダーを使用する必要がありません。
 
-## cookieのない将来に備えるのに役立つ既存の機能と実装は何ですか？
+## cookie のない将来に備えるのに役立つ既存の機能や実装は何ですか？
 
-既存の訪問者IDサービスの実装により、Analyticsの[CDA](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html)が強化されます。 既存の宣言済みIDがハッシュ化された電子メールである場合は、これを使用して次の機能を強化できます。
+既存の訪問者 ID サービスの実装により、Analytics が強化されます。 [CDA](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html). 既存の宣言済み ID がハッシュ化された電子メールの場合、これを使用して次の機能を強化できます。
 
 - [!DNL Audience Manager] [People-Based Destinations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=ja).
-- [Experience Platformセグメントの一致（アルファ） ](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)を参照してください。
+- [Experience Platformセグメントの一致（ベータ版）](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html?lang=en).
 
-## [!DNL Device Co-op]からデータを保持することはできますか？
+## データを保持する [!DNL Device Co-op]?
 
-[!DNL Audience Manager]と[!DNL Advertising Cloud]ユーザーの場合、[!DNL Device Co-op]のデータをサードパーティのグラフに転送することはできません。 [!DNL Device Co-op] データは、CDAを使用し、フィールドベ [!DNL Analytics Ultimate] ースのステッチに切り替え [!DNL Device Co-op] る場合にのみ移行されます。その他のすべてのソリューションは、データを移行しません。
+の場合 [!DNL Audience Manager] および [!DNL Advertising Cloud] ユーザー、 [!DNL Device Co-op] は、サードパーティのグラフに転送することはできません。 [!DNL Device Co-op] データは [!DNL Analytics Ultimate] と共に CDA を使用するユーザー [!DNL Device Co-op] フィールドベースのステッチに切り替える。 その他のすべてのソリューションでは、データは移行されません。
 
 ## 他の機能の採用は必須ですか？
 
-他のAdobe機能の採用は必須ではありませんが、[!DNL Device Co-op]の廃止に先立って、他の機能の実装を可能な限り早く開始し、時間と適切な調整を行う必要があります。
+他のAdobe機能の採用は必須ではありませんが、事前に他の機能の実装を早急に開始し、調整に時間と適切を割くようにする必要があります。 [!DNL Device Co-op] 廃止。
 
-## 私が選択した場合、いつまでに代替ソリューションを採用する必要がありますか？
+## 選択した場合、いつまでに代替ソリューションを採用する必要がありますか。
 
-その他の機能の採用は必須ではありません。 [!DNL Device Co-op]が対処した使用例のアドレス指定を続行する場合にのみお勧めします。 他の機能を採用する場合は、[!DNL Device Co-op]プログラムが終了する前に、2022年までに（発表予定の正確なタイミングで）採用する必要があります。
+他の機能の採用は必須ではありません。 で対処した使用例の処理を続行する場合にのみ、お勧めします。 [!DNL Device Co-op]. 他の機能を採用する場合は、2022 年（正確なタイミングは通知される）までに、 [!DNL Device Co-op] プログラムが終了しました。
 
-## 養子縁組にはどのくらい時間がかかりますか？
+## 養子縁組にはどのくらいの時間がかかりますか？
 
-これは、機能によって異なります。 例えば、クロスデバイス分析と[!DNL Device Co-op]を使用しているAnalytics Ultimateのお客様が、リアルタイムプライベートデバイスグラフまたはフィールドベースのステッチに移行する必要がある場合、導入にはしばらく時間がかかります。
+これは機能によって異なります。 例えば、Analytics Ultimate のお客様が、 [!DNL Device Co-op] は、リアルタイムプライベートデバイスグラフまたはフィールドベースのステッチに移行する必要があり、導入には時間がかかります。
