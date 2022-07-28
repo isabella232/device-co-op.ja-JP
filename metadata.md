@@ -3,19 +3,18 @@ cloud: Experience Cloud
 product: core-services
 solution: Experience Cloud Services
 type: Documentation
-solution-title: ラーニングとサポート
-solution-hub-url: https://helpx.adobe.com/jp/support/experience-cloud/core-services.html
+solution-title: Learn & Support
+solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
 solution-icon: help/interface/assets/experience-cloud-logo-24.png
-getting-started-title: はじめに
-getting-started-url: https://helpx.adobe.com/jp/experience-cloud-core-services/get-started.html
-tutorials-title: チュートリアル
-tutorials-url: https://helpx.adobe.com/jp/experience-cloud/tutorials.html
-git-repo: https://git.corp.adobe.com/AdobeDocs/device-co-op.ja-JP
+getting-started-title: Getting Started
+getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
+tutorials-title: Tutorials
+tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
+git-repo: https://github.com/AdobeDocs/device-co-op.ja-JP
 index: true
-translation-type: tm+mt
 source-git-commit: edb9233d29d46d7d559a513bbdaa81fa86e77418
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '150'
 ht-degree: 97%
 
 ---
@@ -23,7 +22,7 @@ ht-degree: 97%
 
 # 社内用のメタデータ
 
-metadata.md ファイルにはリポジトリー内のユーザーガイド TOC.md ファイルから渡される repo-level メタデータが含まれています。任意のユーザーガイドの metadata.md コンテンツを変更したい場合は、任意の TOC.md ファイル内でおこないます。
+metadata.md ファイルには、リポジトリー内にあるユーザーガイドの TOC.md ファイルにパススルーされる、リポジトリーレベルのメタデータが含まれています。任意のユーザーガイドの metadata.md コンテンツを変更したい場合は、任意の TOC.md ファイル内でおこないます。
 
 | メタデータ | 説明 |
 |--- |--- |
