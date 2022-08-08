@@ -3,9 +3,9 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: Device Co-op の提供終了に関する FAQ
 description: Device Co-op の提供終了プランについて説明します。
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: 8896718ce5fec25cb72f7a2a5ccb4573433e0bb1
+source-git-commit: 952fe1bc73efd99812f3f2950b009ff8dcd83ae1
 workflow-type: tm+mt
-source-wordcount: '1019'
+source-wordcount: '1053'
 ht-degree: 5%
 
 ---
@@ -25,6 +25,10 @@ AdTech 環境での今後の変更により、次のような結果になると�
 ## Adobe終了の理由 [!DNL Device Co-op] 今すぐサインアップしますか？
 
 サインアップは、サードパーティ Cookie に関する今後の業界の変更により、顧客の期待に応えないリスクを防ぐために終わります。 [!DNL Device Co-op] サービスの価値を抽出するには、数ヶ月かかり、さらに数ヶ月かかります。 この時点でこれ以上の新規登録をおこなうと、企業は [!DNL Device Co-op].
+
+## 2022 年 7 月に、Googleは、Chrome でのサードパーティ cookie の 2024 年への廃止を発表しました。 これは [!DNL Device Co-op] EOL の計画？
+
+いいえ、Adobe [!DNL Device Co-op] EOL の計画は、引き続き同じままとなり、延長されません。
 
 ## 新規顧客は新規登録できますか？
 
