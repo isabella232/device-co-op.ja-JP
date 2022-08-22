@@ -3,9 +3,9 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: Device Co-op の提供終了に関する FAQ
 description: Device Co-op の提供終了プランについて説明します。
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: 952fe1bc73efd99812f3f2950b009ff8dcd83ae1
+source-git-commit: ab45f8f54046a31e60223a36c374dc99dc968d7c
 workflow-type: tm+mt
-source-wordcount: '1053'
+source-wordcount: '1079'
 ht-degree: 5%
 
 ---
@@ -40,7 +40,7 @@ AdTech 環境での今後の変更により、次のような結果になると�
 
 ## 終了日： [!DNL Device Co-op] プログラム？
 
-この [!DNL Device Co-op] プログラムは 2022 年に終了します。 特定のタイミングと日付は、 [!DNL Google] がサードパーティ Cookie のブロックを開始します。
+この [!DNL Device Co-op] プログラムは 2022 年に終了します。 特定のタイミングと日付は、 [!DNL Google] がサードパーティ Cookie のブロックを開始します。 廃止作業は 2022 年 9 月に開始する予定です。
 
 ## Device Co-op の提供終了によって影響を受けるアプリケーションはどれですか。
 
@@ -59,7 +59,7 @@ AdTech 環境での今後の変更により、次のような結果になると�
 
 ### [!DNL Audience Manager]
 
-[!DNL Audience Manager] は、次を含むサードパーティのデバイスグラフパートナーとの統合を維持しています。 [!DNL LiveRamp] および [!DNL Tapad]を活用するには、グラフパートナーとの商用関係を直接確立する必要があります。 [!DNL Audience Manager].
+[!DNL Audience Manager] は、次を含むサードパーティのデバイスグラフパートナーとの統合を維持しています。 [!DNL LiveRamp] および [!DNL Tapad]を活用するには、グラフパートナーとの商用関係を直接確立する必要があります。 [!DNL Audience Manager]. すべてのお客様は、Co-op プロファイルの結合ルールを更新して、 [!DNL Device Co-op.]
 
 ### [!DNL Real-time Customer Data Platform]
 
