@@ -3,16 +3,18 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: Device Co-op の提供終了に関する FAQ
 description: Device Co-op の提供終了プランについて説明します。
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: ab45f8f54046a31e60223a36c374dc99dc968d7c
+source-git-commit: 6cb8efa9090d414e1f75c78d40d1c684d04342f9
 workflow-type: tm+mt
-source-wordcount: '1079'
-ht-degree: 5%
+source-wordcount: '1106'
+ht-degree: 4%
 
 ---
 
 # Device Co-op の提供終了に関する FAQ
 
 このドキュメントでは、Adobe Experience Cloud Device Co-op の提供終了 (EOL) プランに関するよくある質問に対する回答を示します。 この計画が実施されると、Adobeは、 [Experience Cloudリリースノート](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ja) そして [優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html).
+
+Device Co-op は、最高レベルのプライバシーと透明性を確保しながら、参加企業の連携によって複数のデジタルタッチポイントを持つ消費者をより正確に識別できるようにするプログラムでした。
 
 ## FAQ
 
@@ -75,7 +77,7 @@ AdTech 環境での今後の変更により、次のような結果になると�
 
 ### Adobe Advertising Cloud
 
-[!DNL Advertising Cloud] のお客様は、 [!DNL Device Co-op] クロスデバイス対応のオーディエンスのターゲティングおよび測定用。 を使用 [!DNL Advertising Cloud]を使用しない場合、Adobeの [!DNL Device Graph] ～との提携 [!DNL LiveRamp] これらの機能を～の範囲内で引き続き実行する [!DNL LiveRamp’s] 能力と規模。 を使用しているキャンペーンを許可する必要があります [!DNL Device Co-op] をクリックして終了し、次に [!DNL LiveRamp] デバイスグラフプロバイダーを使用する必要がありません。
+[!DNL Advertising Cloud] のお客様は、 [!DNL Device Co-op] クロスデバイス対応のオーディエンスのターゲティングおよび測定用。 を使用 [!DNL Advertising Cloud]を使用しない場合、Adobeの [!DNL Device Graph] ～との提携 [!DNL LiveRamp] これらの機能を～の範囲内で引き続き実行する [!DNL LiveRamp's] 能力と規模。 を使用しているキャンペーンを許可する必要があります [!DNL Device Co-op] をクリックして終了し、次に [!DNL LiveRamp] デバイスグラフプロバイダーを使用する必要がありません。
 
 ## cookie のない将来に備えるのに役立つ既存の機能や実装は何ですか？
 
