@@ -1,50 +1,49 @@
 ---
-description: Device Co-opで使用される用語集。
-seo-description: Device Co-opで使用される用語集。
-seo-title: Device Co-opの用語集
-title: Device Co-opの用語集
+description: Device Co-op で使用される用語集。
+seo-description: Glossary of terms used in the Device Co-op.
+seo-title: Glossary of Device Co-op terms
+title: Device Co-op の用語集
 uuid: 55a8b7f0-78bd-4ed3-b90c-1e9acab6b866
-translation-type: tm+mt
-source-git-commit: c1d0bc05d3f211fa3e899e98fbcc908be7399031
+exl-id: d3204d5d-f897-4014-a92b-b4f7cd3d2690
+source-git-commit: 573744525fcc00f35540af9ffec46530111940ed
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
 
+# Device Co-op の用語集{#glossary-of-device-co-op-terms}
 
-# Device Co-opの用語集{#glossary-of-device-co-op-terms}
+Device Co-op で使用される用語集。
 
-Device Co-opで使用される用語集。
+**Adobe Experience Cloud Device Co-op**
 
-**Adobe Experience Cloud・デバイス協会**
-
-プログラムは、すべてのAdobeのお客様のブランドのグループで、ユーザーがデバイス間で個人をより良く識別し、より有意義で一貫性のあるエクスペリエンスを提供するために使用するデバイスに関するデータを共有することに同意したお客様です。 結果がExperience Cloudのコアサービスとなり、マーケターが顧客/消費者をチャネル、ソリューション、エクスペリエンスおよびデバイス全体で一貫して特定するのに役立つテクノロジー。
+プログラムは、すべてのAdobeの顧客のグループで、様々なデバイスで個人をより良く識別し、より有意義で一貫したエクスペリエンスを提供するために、消費者が使用するデバイスに関するデータを共有することに同意しました。 結果はExperience Cloudのコアサービスとなり、マーケターがチャネル、ソリューション、エクスペリエンスおよびデバイスをまたいで、顧客や消費者を一貫して識別するのに役立ちます。
 
 **決定論的リンク**
 
-認証に基づいてデバイスを人にリンクします（例：デバイス上の人がログオンする）。 「[決定論的リンクと確率的リンク](processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931)」を参照
+認証（デバイス上の人によるログオンなど）に基づいてデバイスを人にリンクします。 詳しくは、 [決定論的リンクと確率論的リンク](processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931)
 
 **デバイス**
 
-[!DNL Device Graph]のコンテキストでは、*`device`*&#x200B;は二重の意味を持ちます。 1つ目は、デバイスが他のデバイスを実行する、タブレット、スマートフォン、デスクトップなどのハードウェアデバイスです。 第2に、デバイスとは、モバイル、デスクトップ、またはブランドに関与するその他のインタラクションポイントです。 現在、使用するデバイスごとに一意の[!DNL Experience Cloud] IDが割り当てられます。 例えば、同じユーザーがデスクトップのChrome、ノートパソコンのFirefox、Androidスマートフォンのアプリのブランドと連携できます。 この場合、Chrome、Firefoxおよびアプリはすべて「デバイス」と見なされます。
+のコンテキストでは、 [!DNL Device Graph], *`device`* 二つの意味を持つ。 まず、デバイスは、他のデバイスが動作するタブレット、電話、デスクトップなどのハードウェアデバイスです。 第 2 に、デバイスとは、個人がブランドと関わるモバイル、デスクトップ、またはその他のインタラクションポイントです。 現在、一意の [!DNL Experience Cloud] ID は、使用するデバイスごとに 1 人のユーザーに割り当てられます。 例えば、同じ人物がデスクトップでは Chrome、ノートパソコンでは Firefox、Android フォンではアプリのブランドにエンゲージできます。 この場合、Chrome、Firefox およびアプリはすべて「デバイス」と見なされます。
 
-**1人あたりのデバイス数**
+**1 人あたりのデバイス数**
 
-[デバイス](glossary.md#glossentry-5690d9a245634214b91890156e216950)を参照してください。
+詳しくは、 [デバイス](glossary.md#glossentry-5690d9a245634214b91890156e216950).
 
-**デバイス広告ID(DAID)**
+**デバイス広告 ID (DAID)**
 
-各ハードウェアデバイスに固有のID。広告の目的で使用されます。 通常、デバイスまたはデバイスのオペレーティングシステムの製造元（IDFA、GAID、Roku ID、Playstation IDなど）が提供します。
+各ハードウェアデバイスに固有の ID で、広告目的で使用されます。 通常は、デバイスまたはデバイスのオペレーティングシステムの製造元によって提供されます（例：IDFA、GAID、Roku ID、Playstation ID）。
 
 **デバイスグラフ**
 
-[!DNL Device Graph]は、すべての人とそれらに関連付けられたデバイスのセットです。 Adobe Experience Cloud・デバイスCo-opは[!DNL Device Graph]を生成します。
+この [!DNL Device Graph] は、すべてのユーザーとそれに関連するデバイスのセットです。 Adobe Experience Cloud Device Co-op は、 [!DNL Device Graph].
 
 **リンク**
 
-[デバイス](glossary.md#glossentry-5690d9a245634214b91890156e216950)をタッチポイントでグループ化。
+グループ化 [デバイス](glossary.md#glossentry-5690d9a245634214b91890156e216950) タッチポイントを通じて一緒に
 
-**確率的リンク**
+**確率論的リンク**
 
-閲覧行動、IPアドレス、オペレーティングシステムなどの特性に基づいて、アルゴリズムに基づいてデバイスを人にリンクします。 「[決定論的リンクと確率的リンク](processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931)」を参照してください。
+閲覧行動、IP アドレス、オペレーティングシステムなどの特性に基づいて、アルゴリズムに基づいてデバイスを個人にリンクします。 詳しくは、 [決定論的リンクと確率論的リンク](processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931).

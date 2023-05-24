@@ -1,20 +1,19 @@
 ---
-description: Device Co-opの機能リリース、更新、変更点です。
-seo-description: Device Co-opの機能リリース、更新、変更点です。
-seo-title: Experience CloudDevice Co-opリリースノート
-title: Experience CloudDevice Co-opリリースノート
+description: Device Co-op の機能リリース、更新、変更点です。
+seo-description: Feature releases, updates, or changes to the Device Co-op.
+seo-title: Experience Cloud Device Co-op release notes
+title: Experience CloudDevice Co-op リリースノート
 uuid: 337d7eee-12b1-4ba4-a63b-3ccb88b825f7
-translation-type: tm+mt
-source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
+exl-id: 831acbc6-fdb2-4ce0-b155-e91fbc36e7f5
+source-git-commit: 573744525fcc00f35540af9ffec46530111940ed
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 24%
+source-wordcount: '63'
+ht-degree: 30%
 
 ---
 
+# Experience CloudDevice Co-op リリースノート{#experience-cloud-device-co-op-release-notes}
 
-# Experience CloudデバイスCo-opリリースノート{#experience-cloud-device-co-op-release-notes}
+Device Co-op の機能リリース、更新、変更点です。
 
-Device Co-opの機能リリース、更新、変更点です。
-
-これらの変更点は、[Experience Cloud リリースノート](https://docs.adobe.com/content/help/ja-JP/release-notes/experience-cloud/current.html)にも記載されています。以前のExperience Cloudに関するお知らせについては、このページの「以前のリリースノート」の節を参照してください。
+これらの変更点は、[Experience Cloud リリースノート](https://docs.adobe.com/content/help/ja-JP/release-notes/experience-cloud/current.html)にも記載されています。過去のリリースのお知らせについては、このページの以前のリリースノートの節を参照してください。Experience Cloudに関する以前のお知らせ

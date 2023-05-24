@@ -1,20 +1,19 @@
 ---
 description: デバイスグラフの概要
-seo-description: デバイスグラフの概要
-seo-title: デバイスグラフの概要
+seo-description: Device Graph Overview
+seo-title: Device Graph Overview
 title: デバイスグラフの概要
-translation-type: tm+mt
-source-git-commit: c4c4d5f795f974297ba3952807329d92e51ccaad
+exl-id: 5ba9caef-e148-4ccd-966b-839390c2646c
+source-git-commit: 573744525fcc00f35540af9ffec46530111940ed
 workflow-type: tm+mt
-source-wordcount: '29'
+source-wordcount: '23'
 ht-degree: 0%
 
 ---
 
+# デバイスグラフの概要
 
-# Device Graphの概要
-
-* [決定論的リンクと確率的リンク](links.md)
-* [Device Graphでのリンクの共有](link-sharing.md)
+* [決定論的リンクと確率論的リンク](links.md)
+* [デバイスグラフでのリンク共有](link-sharing.md)
 * [既知のデバイス](known-device.md)
 * [不明なデバイス](unknown-device.md)

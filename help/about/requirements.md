@@ -1,83 +1,81 @@
 ---
-description: 会社Device Co-opを使用して開始を行うには、Experience Cloudがこれらの最小基準を満たしている必要があります。
-seo-description: 会社Device Co-opを使用して開始を行うには、Experience Cloudがこれらの最小基準を満たしている必要があります。
-seo-title: メンバーシップ要件
+description: Device Co-op の使用を開始する前に、お客様の会社がこれらの最小基準を満たしている必要があります。
+seo-description: Your company must meet these minimum standards before you can start using the Experience Cloud Device Co-op.
+seo-title: Membership requirements
 title: メンバーシップ要件
 uuid: 4295fa4e-1b9e-4323-bb79-48e548ca1167
-translation-type: tm+mt
-source-git-commit: 1ab7be570ea63645c6d6065341d31bf170f79715
+exl-id: 923ce9c5-7716-4c5a-95f2-05a81a05c9cf
+source-git-commit: 573744525fcc00f35540af9ffec46530111940ed
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 16%
+source-wordcount: '415'
+ht-degree: 17%
 
 ---
 
-
 # メンバーシップ要件{#membership-requirements}
 
-会社Device Co-opを使用して開始を行うには、Experience Cloudがこれらの最小基準を満たしている必要があります。
+Device Co-op の使用を開始する前に、お客様の会社がこれらの最小基準を満たしている必要があります。
 
 ## 要件 {#section-9cbcee3c7b4e4c49b4c0e2b26aec5fe9}
 
-[!DNL Adobe representative to get started]にお問い合わせください。 Adobeは、見込み客のDevice Co-opへの参加が(1)適用法に違反するとAdobeが判断した場合、Experience CloudDevice Co-opへの参加を見込み客に拒否する権利を留保します。(2)Adobe又はその顧客の安全又は運用に重大なリスクを与える。
+お問い合わせ [!DNL Adobe representative to get started]. Adobeは、Device Co-op への見込みExperience Cloudの参加が適用法に違反するとAdobeが判断した場合、Device Device Co-op への見込み顧客メンバーシップを拒否する権利を留保します。または (2)Adobeまたはその顧客のセキュリティや操作に重大なリスクを引き起こす。
 
-## Experience Cloud要件{#section-76218a50385d43e6b9323e49f598394a}
+## Experience Cloud要件 {#section-76218a50385d43e6b9323e49f598394a}
 
-[!DNL Adobe Experience Cloud]を有効にし、次のソリューションとサービスを使用してco-opに参加する必要があります。
+を有効にする必要があります。 [!DNL Adobe Experience Cloud] 次のソリューションおよびサービスを使用して co-op に参加します。
 
 **ソリューション**
 
-申込者は、次の[!DNL Adobe]ソリューションの少なくとも1つを使用する必要があります。
+申請者は、次のうち少なくとも 1 つを使用する必要があります [!DNL Adobe]ソリューション：
 
 * [Analytics](http://www.adobe.com/jp/marketing-cloud/web-analytics.html)
 * [Audience Manager](http://www.adobe.com/jp/marketing-cloud/data-management-platform.html)
 * [Media Manager](http://www.adobe.com/marketing-cloud/online-advertising-management.html)
-* [Target](http://www.adobe.com/marketing-cloud/testing-targeting.html)
+* [Target](http://www.adobe.com/jp/marketing-cloud/testing-targeting.html)
 
 **コアサービス**
 
-申込者は、[Experience CloudIDサービス](https://docs.adobe.com/content/help/ja-JP/id-service/using/home.html)を導入する必要があります。
+申請者は、 [Experience CloudID サービス](https://docs.adobe.com/content/help/ja-JP/id-service/using/home.html).
 
-## Adobeコードライブラリの要件{#section-931a3fca1ce54afd90b88ba032e75f05}
+## Adobeコードライブラリの要件 {#section-931a3fca1ce54afd90b88ba032e75f05}
 
-次の表に、様々な[!DNL Experience Cloud]ソリューションおよびサービスで使用されるコードライブラリまたはSDKの最小バージョンを示します。 このコードのいずれかを使用し、Device Co-opに参加する場合は、以下の最小要件を満たしていることを確認してください。
+次の表に、様々なコードライブラリまたは SDK で使用される最小バージョンを示します [!DNL Experience Cloud] ソリューションとサービス このコードのいずれかを使用し、Device Co-op に参加する場合は、次の最小要件を満たしていることを確認してください。
 
 >[!TIP]
 >
->ベストプラクティスとして、必要な最小コードではなく、最新のコードバージョンを使用することをお勧めします。
+>ベストプラクティスとして、必要最小限ではなく、最新のコードバージョンを使用することをお勧めします。
 
-**AppMeasurement(Flash)**
+**AppMeasurement (Flash)**
 
-バージョン4.1が必要です。[AppMeasurement forFlash、Flex、AIR](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/index.md)を参照してください。
+バージョン 4.1 が必要です。詳しくは、 [Flash、FlexおよびAIR向けの AppMeasurement](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/index.md).
 
-**AppMeasurement(JavaScript)**
+**AppMeasurement (JavaScript)**
 
-バージョン1.5.4が必要です。[AppMeasurement forFlash、Flex、AIR](https://docs.adobe.com/content/help/ja-JP/analytics/implementation/js/migrate-from-hcode.html)を参照してください。
+バージョン 1.5.4 が必要です。詳しくは、 [Flash、FlexおよびAIR向けの AppMeasurement](https://docs.adobe.com/content/help/ja-JP/analytics/implementation/js/migrate-from-hcode.html).
 
 **モバイル SDK**
 
-モバイルSDKの最小要件：
+モバイル SDK の最小要件：
 
 * Android バージョン 4.8.3.
 * iOS バージョン 4.8.5.
 
-[!DNL Experience Cloud] IDサービスに対してSDKコードを有効にする必要があります。 [AdobeMobile Services](https://mobilemarketing.adobe.com/)アカウントの各アプリ用に、最新のSDKコードを有効にしてダウンロードします。 「[SDK訪問者IDサービスの設定](https://docs.adobe.com/content/help/ja-JP/mobile-services/using/manage-app-settings-ug/configuring-app/t-config-visitor.html)」を参照してください。
+に対して SDK コードを有効にする必要があります。 [!DNL Experience Cloud] ID サービス。 の各アプリ用の最新 SDK コードを有効にして、ダウンロードします [AdobeMobile Services](https://mobilemarketing.adobe.com/) アカウント 詳しくは、 [SDK 訪問者 ID サービスの設定](https://docs.adobe.com/content/help/ja-JP/mobile-services/using/manage-app-settings-ug/configuring-app/t-config-visitor.html).
 
-SDKごとに、ニーズに合った適切な`visitorSyncIdentifier`メソッドを使用します。 以下を参照してください。
+SDK ごとに、適切な `visitorSyncIdentifier` 必要に応じてメソッドを使用できます。 参照：
 
-* [AndroidExperience CloudIDサービスのメソッド](https://docs.adobe.com/content/help/en/mobile-services/android/experience-cloud-android/mcvid.html)
-* [iOSExperience CloudIDサービスのメソッド](https://docs.adobe.com/content/help/en/mobile-services/ios/exp-cloud-ios/mcvid.html)
+* [AndroidExperience CloudID サービスメソッド](https://docs.adobe.com/content/help/en/mobile-services/android/experience-cloud-android/mcvid.html)
+* [iOSExperience CloudID サービスメソッド](https://docs.adobe.com/content/help/en/mobile-services/ios/exp-cloud-ios/mcvid.html)
 
 **VisitorAPI.js**
 
-バージョン1.5.4が必要です。
+バージョン 1.5.4 が必要です。
 
-[!DNL Analytics] お客様は、からVisitorAPI.jsライブラリをダウンロードでき [!DNL Code Manager]ます。このファイルは、JavaScript（新規）ファイルまたはJavaScript（レガシー）ファイルにあります。 [カスタマーケア](https://helpx.adobe.com/jp/marketing-cloud/contact-support.html)にお問い合わせください（お客様が[!DNL Code Manager]にアクセスできない場合）。
+[!DNL Analytics] のお客様は、 VisitorAPI.js ライブラリを [!DNL Code Manager]. JavaScript（新規）または JavaScript（レガシー）ファイルにあります。 連絡先 [カスタマーケア](https://helpx.adobe.com/jp/marketing-cloud/contact-support.html) アクセス権がない場合 [!DNL Code Manager].
 
 **ターゲットライブラリ**
 
-次の[!DNL Target] JavaScriptライブラリのいずれかが必要です。
+次のいずれかが必要です [!DNL Target] JavaScript ライブラリ：
 
-* at.js（任意のバージョン）
-* mbox.jsバージョン58以降
-
+* at.js （任意のバージョン）
+* mbox.js バージョン 58 以降

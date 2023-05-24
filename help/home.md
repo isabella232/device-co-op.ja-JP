@@ -1,9 +1,8 @@
 ---
-description: Adobe Experience Cloudデバイス協力会社ドキュメント
-title: Adobe Experience Cloudデバイス協力会社ドキュメント
+description: Adobe Experience Cloud Device Co-op ドキュメント
+title: Adobe Experience Cloud Device Co-op ドキュメント
 uuid: ec951e20-8736-4d42-b5e5-3e9abfc6820d
 exl-id: 6fab66de-127c-4267-9e55-4e3b74881b10
-translation-type: tm+mt
 source-git-commit: bbb8feec60964862a58af354e2678509537e2cc5
 workflow-type: tm+mt
 source-wordcount: '146'
@@ -11,9 +10,9 @@ ht-degree: 67%
 
 ---
 
-# Adobe Experience Cloudデバイス協力文書{#adobe-experience-cloud-device-co-op-documentation}
+# Adobe Experience Cloud Device Co-op ドキュメント{#adobe-experience-cloud-device-co-op-documentation}
 
-[!DNL Adobe Experience Cloud][!DNL Device Co-op] は、参加するお客様がデバイスリンク情報を共有するデジタル協業です。[!DNL Experience Cloud] [!DNL Device Co-op]は、このデータを処理してデバイスクラスターを形成します。 これらのクラスターは、未知の人が使用するデバイスのグループを表します。 [!DNL Device Co-op] は、メンバー間でこれらのクラスターを共有します。これにより、メンバーは、価値のある一貫したクロスデバイスエクスペリエンスをその顧客に提供できます。
+[!DNL Adobe Experience Cloud][!DNL Device Co-op] は、参加するお客様がデバイスリンク情報を共有するデジタル協業です。この [!DNL Experience Cloud] [!DNL Device Co-op] は、このデータを処理してデバイスクラスターを形成します。 これらのクラスターは、1 人の匿名の人物が使用するデバイスのグループを表します。 [!DNL Device Co-op] は、メンバー間でこれらのクラスターを共有します。これにより、メンバーは、価値のある一貫したクロスデバイスエクスペリエンスをその顧客に提供できます。
 
 <!-- <a id="section_535A849B2BF14221BD78C968CC02732D"></a> -->
 
@@ -29,7 +28,7 @@ ht-degree: 67%
    <td colname="col2"> <p> <b>リリースノート</b> </p> 
     <ul id="ul_713F3E9DF0F84FE5981AC63D05948864"> 
      <li id="li_09C1CD15823E4AD7856CE40BE848E03F">新機能と修正点については、最新の <a href="https://docs.adobe.com/content/help/ja-JP/release-notes/experience-cloud/current.html" format="https" scope="external">Experience Cloud リリースノート</a>を参照してください。 </li> 
-     <li id="li_EA594E939ED14D7780178DEA8E1AED64">古いお知らせについては、<a href="https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html" format="https" scope="external">以前のリリースノートのリンク</a>を参照してください。 </li> 
+     <li id="li_EA594E939ED14D7780178DEA8E1AED64">詳しくは、 <a href="https://docs.adobe.com/content/help/ja-JP/release-notes/experience-cloud/current.html" format="https" scope="external"> 以前のリリースノートリンク</a> （過去のお知らせ）。 </li> 
     </ul> <p> <b>Experience Cloud リソース</b> </p> 
     <ul id="ul_E30EC96BDC624B5591F0470D430B7F41"> 
      <li id="li_F3A5CCFAE0F247CEB41A03CA8E03106B"> <a href="http://www.adobe.com/jp/marketing-cloud.html" scope="external" format="http"> Adobe Experience Cloud</a> </li> 

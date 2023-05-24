@@ -1,22 +1,21 @@
 ---
-description: Device Graphデータは、新機能、レポート、または選択したExperience Cloudソリューションの追加データに表示されます。 Analytics、Audience Manager、Media Manager、ターゲットなどがあります。
-seo-description: Device Graphデータは、新機能、レポート、または選択したExperience Cloudソリューションの追加データに表示されます。 Analytics、Audience Manager、Media Manager、ターゲットなどがあります。
-seo-title: Experience CloudソリューションのDevice Co-opデータ
-title: Experience CloudソリューションのDevice Co-opデータ
+description: デバイスグラフのデータは、選択したデバイスソリューションの新機能、レポート、または追加のExperience Cloudに表示されます。 これには、Analytics、Audience Manager、Media Manager、Target が含まれます。
+seo-description: Device Graph data appears in new features, reports, or additional data in selected Experience Cloud solutions. These include Analytics, Audience Manager, Media Optimizer, and Target.
+seo-title: Device Co-op data in Experience Cloud solutions
+title: Experience Cloudソリューションにおける Device Co-op データ
 uuid: cddca1df-edf1-417a-84b5-340dfe9cccf9
-translation-type: tm+mt
-source-git-commit: c1d0bc05d3f211fa3e899e98fbcc908be7399031
+exl-id: f532b874-c7ba-4e73-80fa-c152492ae089
+source-git-commit: 573744525fcc00f35540af9ffec46530111940ed
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 2%
 
 ---
 
+# Experience Cloudソリューションにおける Device Co-op データ{#device-co-op-data-in-experience-cloud-solutions}
 
-# Experience CloudソリューションのDevice Co-opデータ{#device-co-op-data-in-experience-cloud-solutions}
-
-Device Graphデータは、新機能、レポート、または選択したExperience Cloudソリューションの追加データに表示されます。 Analytics、Audience Manager、Media Manager、ターゲットなどがあります。
+デバイスグラフのデータは、選択したデバイスソリューションの新機能、レポート、または追加のExperience Cloudに表示されます。 これには、Analytics、Audience Manager、Media Manager、Target が含まれます。
 
 * [人物指標](people.md)
-* [Audience Manager-プロファイルリンク](proflie-link.md)
-* [ターゲット- A/Bテスト、多変量分析テスト、エクスペリエンスのターゲット設定](target.md)
+* [Audience Manager — プロファイルリンク](proflie-link.md)
+* [Target - A/B テスト、多変量分析テスト、エクスペリエンスのターゲット設定](target.md)
